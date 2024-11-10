@@ -4163,3 +4163,73 @@
 [2024-11-10T20:18:22.692+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:18:22.692+0000] {dag.py:2690} INFO - Sync 1 DAGs
 [2024-11-10T20:18:22.707+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:18:22.707+0000] {dag.py:3441} INFO - Setting next_dagrun for second_dag to None, run_after=None
 [2024-11-10T20:18:22.722+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/second_dag.py took 0.055 seconds
+[2024-11-10T20:18:53.275+0000] {processor.py:153} INFO - Started process (PID=7266) to work on /opt/airflow/dags/second_dag.py
+[2024-11-10T20:18:53.276+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/second_dag.py for tasks to queue
+[2024-11-10T20:18:53.277+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:18:53.277+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/second_dag.py
+[2024-11-10T20:18:53.297+0000] {processor.py:753} INFO - DAG(s) dict_keys(['second_dag']) retrieved from /opt/airflow/dags/second_dag.py
+[2024-11-10T20:18:53.316+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:18:53.316+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-10T20:18:53.332+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:18:53.332+0000] {dag.py:3441} INFO - Setting next_dagrun for second_dag to None, run_after=None
+[2024-11-10T20:18:53.343+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/second_dag.py took 0.071 seconds
+[2024-11-10T20:19:24.161+0000] {processor.py:153} INFO - Started process (PID=7333) to work on /opt/airflow/dags/second_dag.py
+[2024-11-10T20:19:24.162+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/second_dag.py for tasks to queue
+[2024-11-10T20:19:24.163+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:19:24.163+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/second_dag.py
+[2024-11-10T20:19:24.172+0000] {processor.py:753} INFO - DAG(s) dict_keys(['second_dag']) retrieved from /opt/airflow/dags/second_dag.py
+[2024-11-10T20:19:24.185+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:19:24.185+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-10T20:19:24.199+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:19:24.199+0000] {dag.py:3441} INFO - Setting next_dagrun for second_dag to None, run_after=None
+[2024-11-10T20:19:24.209+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/second_dag.py took 0.050 seconds
+[2024-11-10T20:19:54.945+0000] {processor.py:153} INFO - Started process (PID=7400) to work on /opt/airflow/dags/second_dag.py
+[2024-11-10T20:19:54.946+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/second_dag.py for tasks to queue
+[2024-11-10T20:19:54.948+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:19:54.948+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/second_dag.py
+[2024-11-10T20:19:54.965+0000] {processor.py:753} INFO - DAG(s) dict_keys(['second_dag']) retrieved from /opt/airflow/dags/second_dag.py
+[2024-11-10T20:19:54.987+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:19:54.987+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-10T20:19:55.007+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:19:55.007+0000] {dag.py:3441} INFO - Setting next_dagrun for second_dag to None, run_after=None
+[2024-11-10T20:19:55.021+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/second_dag.py took 0.080 seconds
+[2024-11-10T20:20:25.415+0000] {processor.py:153} INFO - Started process (PID=7451) to work on /opt/airflow/dags/second_dag.py
+[2024-11-10T20:20:25.416+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/second_dag.py for tasks to queue
+[2024-11-10T20:20:25.417+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:20:25.417+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/second_dag.py
+[2024-11-10T20:20:25.427+0000] {processor.py:753} INFO - DAG(s) dict_keys(['second_dag']) retrieved from /opt/airflow/dags/second_dag.py
+[2024-11-10T20:20:25.444+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:20:25.444+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-10T20:20:25.489+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:20:25.489+0000] {dag.py:3441} INFO - Setting next_dagrun for second_dag to None, run_after=None
+[2024-11-10T20:20:25.509+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/second_dag.py took 0.097 seconds
+[2024-11-10T20:20:56.022+0000] {processor.py:153} INFO - Started process (PID=7518) to work on /opt/airflow/dags/second_dag.py
+[2024-11-10T20:20:56.023+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/second_dag.py for tasks to queue
+[2024-11-10T20:20:56.024+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:20:56.024+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/second_dag.py
+[2024-11-10T20:20:56.040+0000] {processor.py:753} INFO - DAG(s) dict_keys(['second_dag']) retrieved from /opt/airflow/dags/second_dag.py
+[2024-11-10T20:20:56.064+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:20:56.064+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-10T20:20:56.082+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:20:56.082+0000] {dag.py:3441} INFO - Setting next_dagrun for second_dag to None, run_after=None
+[2024-11-10T20:20:56.098+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/second_dag.py took 0.080 seconds
+[2024-11-10T20:21:26.311+0000] {processor.py:153} INFO - Started process (PID=7569) to work on /opt/airflow/dags/second_dag.py
+[2024-11-10T20:21:26.312+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/second_dag.py for tasks to queue
+[2024-11-10T20:21:26.313+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:21:26.313+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/second_dag.py
+[2024-11-10T20:21:26.323+0000] {processor.py:753} INFO - DAG(s) dict_keys(['second_dag']) retrieved from /opt/airflow/dags/second_dag.py
+[2024-11-10T20:21:26.336+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:21:26.336+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-10T20:21:26.349+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:21:26.349+0000] {dag.py:3441} INFO - Setting next_dagrun for second_dag to None, run_after=None
+[2024-11-10T20:21:26.358+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/second_dag.py took 0.049 seconds
+[2024-11-10T20:21:56.410+0000] {processor.py:153} INFO - Started process (PID=7636) to work on /opt/airflow/dags/second_dag.py
+[2024-11-10T20:21:56.411+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/second_dag.py for tasks to queue
+[2024-11-10T20:21:56.412+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:21:56.411+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/second_dag.py
+[2024-11-10T20:21:56.420+0000] {processor.py:753} INFO - DAG(s) dict_keys(['second_dag']) retrieved from /opt/airflow/dags/second_dag.py
+[2024-11-10T20:21:56.436+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:21:56.436+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-10T20:21:56.450+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:21:56.450+0000] {dag.py:3441} INFO - Setting next_dagrun for second_dag to None, run_after=None
+[2024-11-10T20:21:56.460+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/second_dag.py took 0.052 seconds
+[2024-11-10T20:22:26.877+0000] {processor.py:153} INFO - Started process (PID=7688) to work on /opt/airflow/dags/second_dag.py
+[2024-11-10T20:22:26.878+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/second_dag.py for tasks to queue
+[2024-11-10T20:22:26.879+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:22:26.878+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/second_dag.py
+[2024-11-10T20:22:26.890+0000] {processor.py:753} INFO - DAG(s) dict_keys(['second_dag']) retrieved from /opt/airflow/dags/second_dag.py
+[2024-11-10T20:22:26.904+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:22:26.904+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-10T20:22:26.917+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:22:26.917+0000] {dag.py:3441} INFO - Setting next_dagrun for second_dag to None, run_after=None
+[2024-11-10T20:22:26.929+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/second_dag.py took 0.054 seconds
+[2024-11-10T20:22:58.559+0000] {processor.py:153} INFO - Started process (PID=7755) to work on /opt/airflow/dags/second_dag.py
+[2024-11-10T20:22:58.560+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/second_dag.py for tasks to queue
+[2024-11-10T20:22:58.561+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:22:58.561+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/second_dag.py
+[2024-11-10T20:22:58.573+0000] {processor.py:753} INFO - DAG(s) dict_keys(['second_dag']) retrieved from /opt/airflow/dags/second_dag.py
+[2024-11-10T20:22:58.594+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:22:58.594+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-10T20:22:58.612+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:22:58.612+0000] {dag.py:3441} INFO - Setting next_dagrun for second_dag to None, run_after=None
+[2024-11-10T20:22:58.626+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/second_dag.py took 0.070 seconds
+[2024-11-10T20:23:29.717+0000] {processor.py:153} INFO - Started process (PID=7822) to work on /opt/airflow/dags/second_dag.py
+[2024-11-10T20:23:29.719+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/second_dag.py for tasks to queue
+[2024-11-10T20:23:29.720+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:23:29.720+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/second_dag.py
+[2024-11-10T20:23:29.735+0000] {processor.py:753} INFO - DAG(s) dict_keys(['second_dag']) retrieved from /opt/airflow/dags/second_dag.py
+[2024-11-10T20:23:29.786+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:23:29.785+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-10T20:23:29.838+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:23:29.837+0000] {dag.py:3441} INFO - Setting next_dagrun for second_dag to None, run_after=None
+[2024-11-10T20:23:29.886+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/second_dag.py took 0.172 seconds

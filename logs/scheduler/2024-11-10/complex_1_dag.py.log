@@ -4163,3 +4163,73 @@
 [2024-11-10T20:18:22.491+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:18:22.491+0000] {dag.py:2690} INFO - Sync 1 DAGs
 [2024-11-10T20:18:22.510+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:18:22.510+0000] {dag.py:3441} INFO - Setting next_dagrun for complex_1 to None, run_after=None
 [2024-11-10T20:18:22.520+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/complex_1_dag.py took 0.070 seconds
+[2024-11-10T20:18:53.060+0000] {processor.py:153} INFO - Started process (PID=7260) to work on /opt/airflow/dags/complex_1_dag.py
+[2024-11-10T20:18:53.061+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/complex_1_dag.py for tasks to queue
+[2024-11-10T20:18:53.064+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:18:53.064+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/complex_1_dag.py
+[2024-11-10T20:18:53.074+0000] {processor.py:753} INFO - DAG(s) dict_keys(['complex_1']) retrieved from /opt/airflow/dags/complex_1_dag.py
+[2024-11-10T20:18:53.099+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:18:53.099+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-10T20:18:53.119+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:18:53.119+0000] {dag.py:3441} INFO - Setting next_dagrun for complex_1 to None, run_after=None
+[2024-11-10T20:18:53.130+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/complex_1_dag.py took 0.076 seconds
+[2024-11-10T20:19:23.944+0000] {processor.py:153} INFO - Started process (PID=7327) to work on /opt/airflow/dags/complex_1_dag.py
+[2024-11-10T20:19:23.946+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/complex_1_dag.py for tasks to queue
+[2024-11-10T20:19:23.947+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:19:23.947+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/complex_1_dag.py
+[2024-11-10T20:19:23.958+0000] {processor.py:753} INFO - DAG(s) dict_keys(['complex_1']) retrieved from /opt/airflow/dags/complex_1_dag.py
+[2024-11-10T20:19:23.975+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:19:23.975+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-10T20:19:23.988+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:19:23.988+0000] {dag.py:3441} INFO - Setting next_dagrun for complex_1 to None, run_after=None
+[2024-11-10T20:19:23.998+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/complex_1_dag.py took 0.056 seconds
+[2024-11-10T20:19:54.659+0000] {processor.py:153} INFO - Started process (PID=7394) to work on /opt/airflow/dags/complex_1_dag.py
+[2024-11-10T20:19:54.661+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/complex_1_dag.py for tasks to queue
+[2024-11-10T20:19:54.662+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:19:54.661+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/complex_1_dag.py
+[2024-11-10T20:19:54.680+0000] {processor.py:753} INFO - DAG(s) dict_keys(['complex_1']) retrieved from /opt/airflow/dags/complex_1_dag.py
+[2024-11-10T20:19:54.697+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:19:54.697+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-10T20:19:54.713+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:19:54.713+0000] {dag.py:3441} INFO - Setting next_dagrun for complex_1 to None, run_after=None
+[2024-11-10T20:19:54.727+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/complex_1_dag.py took 0.071 seconds
+[2024-11-10T20:20:25.019+0000] {processor.py:153} INFO - Started process (PID=7445) to work on /opt/airflow/dags/complex_1_dag.py
+[2024-11-10T20:20:25.019+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/complex_1_dag.py for tasks to queue
+[2024-11-10T20:20:25.020+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:20:25.020+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/complex_1_dag.py
+[2024-11-10T20:20:25.030+0000] {processor.py:753} INFO - DAG(s) dict_keys(['complex_1']) retrieved from /opt/airflow/dags/complex_1_dag.py
+[2024-11-10T20:20:25.045+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:20:25.045+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-10T20:20:25.060+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:20:25.060+0000] {dag.py:3441} INFO - Setting next_dagrun for complex_1 to None, run_after=None
+[2024-11-10T20:20:25.073+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/complex_1_dag.py took 0.057 seconds
+[2024-11-10T20:20:55.747+0000] {processor.py:153} INFO - Started process (PID=7512) to work on /opt/airflow/dags/complex_1_dag.py
+[2024-11-10T20:20:55.750+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/complex_1_dag.py for tasks to queue
+[2024-11-10T20:20:55.752+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:20:55.752+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/complex_1_dag.py
+[2024-11-10T20:20:55.767+0000] {processor.py:753} INFO - DAG(s) dict_keys(['complex_1']) retrieved from /opt/airflow/dags/complex_1_dag.py
+[2024-11-10T20:20:55.781+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:20:55.780+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-10T20:20:55.794+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:20:55.794+0000] {dag.py:3441} INFO - Setting next_dagrun for complex_1 to None, run_after=None
+[2024-11-10T20:20:55.805+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/complex_1_dag.py took 0.060 seconds
+[2024-11-10T20:21:26.070+0000] {processor.py:153} INFO - Started process (PID=7563) to work on /opt/airflow/dags/complex_1_dag.py
+[2024-11-10T20:21:26.070+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/complex_1_dag.py for tasks to queue
+[2024-11-10T20:21:26.071+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:21:26.071+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/complex_1_dag.py
+[2024-11-10T20:21:26.079+0000] {processor.py:753} INFO - DAG(s) dict_keys(['complex_1']) retrieved from /opt/airflow/dags/complex_1_dag.py
+[2024-11-10T20:21:26.091+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:21:26.091+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-10T20:21:26.113+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:21:26.113+0000] {dag.py:3441} INFO - Setting next_dagrun for complex_1 to None, run_after=None
+[2024-11-10T20:21:26.131+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/complex_1_dag.py took 0.063 seconds
+[2024-11-10T20:21:56.192+0000] {processor.py:153} INFO - Started process (PID=7630) to work on /opt/airflow/dags/complex_1_dag.py
+[2024-11-10T20:21:56.193+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/complex_1_dag.py for tasks to queue
+[2024-11-10T20:21:56.194+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:21:56.194+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/complex_1_dag.py
+[2024-11-10T20:21:56.203+0000] {processor.py:753} INFO - DAG(s) dict_keys(['complex_1']) retrieved from /opt/airflow/dags/complex_1_dag.py
+[2024-11-10T20:21:56.220+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:21:56.220+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-10T20:21:56.235+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:21:56.235+0000] {dag.py:3441} INFO - Setting next_dagrun for complex_1 to None, run_after=None
+[2024-11-10T20:21:56.246+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/complex_1_dag.py took 0.056 seconds
+[2024-11-10T20:22:26.694+0000] {processor.py:153} INFO - Started process (PID=7682) to work on /opt/airflow/dags/complex_1_dag.py
+[2024-11-10T20:22:26.694+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/complex_1_dag.py for tasks to queue
+[2024-11-10T20:22:26.695+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:22:26.695+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/complex_1_dag.py
+[2024-11-10T20:22:26.706+0000] {processor.py:753} INFO - DAG(s) dict_keys(['complex_1']) retrieved from /opt/airflow/dags/complex_1_dag.py
+[2024-11-10T20:22:26.719+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:22:26.719+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-10T20:22:26.732+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:22:26.732+0000] {dag.py:3441} INFO - Setting next_dagrun for complex_1 to None, run_after=None
+[2024-11-10T20:22:26.741+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/complex_1_dag.py took 0.049 seconds
+[2024-11-10T20:22:58.036+0000] {processor.py:153} INFO - Started process (PID=7749) to work on /opt/airflow/dags/complex_1_dag.py
+[2024-11-10T20:22:58.037+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/complex_1_dag.py for tasks to queue
+[2024-11-10T20:22:58.038+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:22:58.038+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/complex_1_dag.py
+[2024-11-10T20:22:58.048+0000] {processor.py:753} INFO - DAG(s) dict_keys(['complex_1']) retrieved from /opt/airflow/dags/complex_1_dag.py
+[2024-11-10T20:22:58.062+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:22:58.061+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-10T20:22:58.076+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:22:58.076+0000] {dag.py:3441} INFO - Setting next_dagrun for complex_1 to None, run_after=None
+[2024-11-10T20:22:58.181+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/complex_1_dag.py took 0.147 seconds
+[2024-11-10T20:23:29.040+0000] {processor.py:153} INFO - Started process (PID=7816) to work on /opt/airflow/dags/complex_1_dag.py
+[2024-11-10T20:23:29.042+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/complex_1_dag.py for tasks to queue
+[2024-11-10T20:23:29.044+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:23:29.043+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/complex_1_dag.py
+[2024-11-10T20:23:29.070+0000] {processor.py:753} INFO - DAG(s) dict_keys(['complex_1']) retrieved from /opt/airflow/dags/complex_1_dag.py
+[2024-11-10T20:23:29.125+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:23:29.125+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-10T20:23:29.157+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:23:29.157+0000] {dag.py:3441} INFO - Setting next_dagrun for complex_1 to None, run_after=None
+[2024-11-10T20:23:29.176+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/complex_1_dag.py took 0.147 seconds

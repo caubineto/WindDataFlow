@@ -4163,3 +4163,73 @@
 [2024-11-10T20:18:22.553+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:18:22.553+0000] {dag.py:2690} INFO - Sync 1 DAGs
 [2024-11-10T20:18:22.573+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:18:22.573+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_dag3 to None, run_after=None
 [2024-11-10T20:18:22.583+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_dag3.py took 0.063 seconds
+[2024-11-10T20:18:53.136+0000] {processor.py:153} INFO - Started process (PID=7261) to work on /opt/airflow/dags/trigger_dag3.py
+[2024-11-10T20:18:53.136+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_dag3.py for tasks to queue
+[2024-11-10T20:18:53.137+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:18:53.137+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_dag3.py
+[2024-11-10T20:18:53.146+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_dag3']) retrieved from /opt/airflow/dags/trigger_dag3.py
+[2024-11-10T20:18:53.161+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:18:53.161+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-10T20:18:53.176+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:18:53.175+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_dag3 to None, run_after=None
+[2024-11-10T20:18:53.187+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_dag3.py took 0.053 seconds
+[2024-11-10T20:19:24.004+0000] {processor.py:153} INFO - Started process (PID=7328) to work on /opt/airflow/dags/trigger_dag3.py
+[2024-11-10T20:19:24.005+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_dag3.py for tasks to queue
+[2024-11-10T20:19:24.006+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:19:24.006+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_dag3.py
+[2024-11-10T20:19:24.016+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_dag3']) retrieved from /opt/airflow/dags/trigger_dag3.py
+[2024-11-10T20:19:24.034+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:19:24.033+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-10T20:19:24.049+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:19:24.049+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_dag3 to None, run_after=None
+[2024-11-10T20:19:24.060+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_dag3.py took 0.058 seconds
+[2024-11-10T20:19:54.730+0000] {processor.py:153} INFO - Started process (PID=7395) to work on /opt/airflow/dags/trigger_dag3.py
+[2024-11-10T20:19:54.731+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_dag3.py for tasks to queue
+[2024-11-10T20:19:54.731+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:19:54.731+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_dag3.py
+[2024-11-10T20:19:54.742+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_dag3']) retrieved from /opt/airflow/dags/trigger_dag3.py
+[2024-11-10T20:19:54.760+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:19:54.760+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-10T20:19:54.779+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:19:54.779+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_dag3 to None, run_after=None
+[2024-11-10T20:19:54.797+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_dag3.py took 0.069 seconds
+[2024-11-10T20:20:25.055+0000] {processor.py:153} INFO - Started process (PID=7446) to work on /opt/airflow/dags/trigger_dag3.py
+[2024-11-10T20:20:25.056+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_dag3.py for tasks to queue
+[2024-11-10T20:20:25.056+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:20:25.056+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_dag3.py
+[2024-11-10T20:20:25.065+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_dag3']) retrieved from /opt/airflow/dags/trigger_dag3.py
+[2024-11-10T20:20:25.081+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:20:25.081+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-10T20:20:25.101+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:20:25.101+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_dag3 to None, run_after=None
+[2024-11-10T20:20:25.120+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_dag3.py took 0.068 seconds
+[2024-11-10T20:20:55.811+0000] {processor.py:153} INFO - Started process (PID=7513) to work on /opt/airflow/dags/trigger_dag3.py
+[2024-11-10T20:20:55.811+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_dag3.py for tasks to queue
+[2024-11-10T20:20:55.812+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:20:55.812+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_dag3.py
+[2024-11-10T20:20:55.822+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_dag3']) retrieved from /opt/airflow/dags/trigger_dag3.py
+[2024-11-10T20:20:55.849+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:20:55.849+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-10T20:20:55.864+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:20:55.864+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_dag3 to None, run_after=None
+[2024-11-10T20:20:55.874+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_dag3.py took 0.065 seconds
+[2024-11-10T20:21:26.162+0000] {processor.py:153} INFO - Started process (PID=7564) to work on /opt/airflow/dags/trigger_dag3.py
+[2024-11-10T20:21:26.163+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_dag3.py for tasks to queue
+[2024-11-10T20:21:26.165+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:21:26.165+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_dag3.py
+[2024-11-10T20:21:26.182+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_dag3']) retrieved from /opt/airflow/dags/trigger_dag3.py
+[2024-11-10T20:21:26.208+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:21:26.208+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-10T20:21:26.222+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:21:26.221+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_dag3 to None, run_after=None
+[2024-11-10T20:21:26.231+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_dag3.py took 0.072 seconds
+[2024-11-10T20:21:56.253+0000] {processor.py:153} INFO - Started process (PID=7631) to work on /opt/airflow/dags/trigger_dag3.py
+[2024-11-10T20:21:56.253+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_dag3.py for tasks to queue
+[2024-11-10T20:21:56.254+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:21:56.254+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_dag3.py
+[2024-11-10T20:21:56.264+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_dag3']) retrieved from /opt/airflow/dags/trigger_dag3.py
+[2024-11-10T20:21:56.282+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:21:56.282+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-10T20:21:56.298+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:21:56.298+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_dag3 to None, run_after=None
+[2024-11-10T20:21:56.318+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_dag3.py took 0.068 seconds
+[2024-11-10T20:22:26.705+0000] {processor.py:153} INFO - Started process (PID=7683) to work on /opt/airflow/dags/trigger_dag3.py
+[2024-11-10T20:22:26.706+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_dag3.py for tasks to queue
+[2024-11-10T20:22:26.706+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:22:26.706+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_dag3.py
+[2024-11-10T20:22:26.714+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_dag3']) retrieved from /opt/airflow/dags/trigger_dag3.py
+[2024-11-10T20:22:26.727+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:22:26.727+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-10T20:22:26.739+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:22:26.739+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_dag3 to None, run_after=None
+[2024-11-10T20:22:26.748+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_dag3.py took 0.046 seconds
+[2024-11-10T20:22:58.190+0000] {processor.py:153} INFO - Started process (PID=7750) to work on /opt/airflow/dags/trigger_dag3.py
+[2024-11-10T20:22:58.190+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_dag3.py for tasks to queue
+[2024-11-10T20:22:58.191+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:22:58.191+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_dag3.py
+[2024-11-10T20:22:58.200+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_dag3']) retrieved from /opt/airflow/dags/trigger_dag3.py
+[2024-11-10T20:22:58.213+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:22:58.213+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-10T20:22:58.228+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:22:58.228+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_dag3 to None, run_after=None
+[2024-11-10T20:22:58.336+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_dag3.py took 0.148 seconds
+[2024-11-10T20:23:29.206+0000] {processor.py:153} INFO - Started process (PID=7817) to work on /opt/airflow/dags/trigger_dag3.py
+[2024-11-10T20:23:29.207+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/trigger_dag3.py for tasks to queue
+[2024-11-10T20:23:29.208+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:23:29.208+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/trigger_dag3.py
+[2024-11-10T20:23:29.224+0000] {processor.py:753} INFO - DAG(s) dict_keys(['trigger_dag3']) retrieved from /opt/airflow/dags/trigger_dag3.py
+[2024-11-10T20:23:29.274+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:23:29.274+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-10T20:23:29.311+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:23:29.311+0000] {dag.py:3441} INFO - Setting next_dagrun for trigger_dag3 to None, run_after=None
+[2024-11-10T20:23:29.337+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/trigger_dag3.py took 0.136 seconds

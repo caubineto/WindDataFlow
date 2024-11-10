@@ -6386,3 +6386,73 @@ airflow.exceptions.AirflowException: missing keyword argument 'python_callable'
 [2024-11-10T20:18:22.120+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:18:22.120+0000] {dag.py:2690} INFO - Sync 1 DAGs
 [2024-11-10T20:18:22.135+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:18:22.135+0000] {dag.py:3441} INFO - Setting next_dagrun for Wind_turbine to None, run_after=None
 [2024-11-10T20:18:22.146+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/wind_turbine.py took 0.103 seconds
+[2024-11-10T20:18:52.211+0000] {processor.py:153} INFO - Started process (PID=7250) to work on /opt/airflow/dags/wind_turbine.py
+[2024-11-10T20:18:52.217+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/wind_turbine.py for tasks to queue
+[2024-11-10T20:18:52.229+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:18:52.228+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/wind_turbine.py
+[2024-11-10T20:18:52.390+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Wind_turbine']) retrieved from /opt/airflow/dags/wind_turbine.py
+[2024-11-10T20:18:52.406+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:18:52.406+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-10T20:18:52.535+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:18:52.534+0000] {dag.py:3441} INFO - Setting next_dagrun for Wind_turbine to None, run_after=None
+[2024-11-10T20:18:52.572+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/wind_turbine.py took 0.372 seconds
+[2024-11-10T20:19:22.852+0000] {processor.py:153} INFO - Started process (PID=7317) to work on /opt/airflow/dags/wind_turbine.py
+[2024-11-10T20:19:22.855+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/wind_turbine.py for tasks to queue
+[2024-11-10T20:19:22.857+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:19:22.857+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/wind_turbine.py
+[2024-11-10T20:19:23.153+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Wind_turbine']) retrieved from /opt/airflow/dags/wind_turbine.py
+[2024-11-10T20:19:23.218+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:19:23.217+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-10T20:19:23.592+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:19:23.592+0000] {dag.py:3441} INFO - Setting next_dagrun for Wind_turbine to None, run_after=None
+[2024-11-10T20:19:23.613+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/wind_turbine.py took 0.770 seconds
+[2024-11-10T20:19:53.944+0000] {processor.py:153} INFO - Started process (PID=7384) to work on /opt/airflow/dags/wind_turbine.py
+[2024-11-10T20:19:53.950+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/wind_turbine.py for tasks to queue
+[2024-11-10T20:19:53.955+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:19:53.954+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/wind_turbine.py
+[2024-11-10T20:19:54.085+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Wind_turbine']) retrieved from /opt/airflow/dags/wind_turbine.py
+[2024-11-10T20:19:54.129+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:19:54.129+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-10T20:19:54.169+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:19:54.169+0000] {dag.py:3441} INFO - Setting next_dagrun for Wind_turbine to None, run_after=None
+[2024-11-10T20:19:54.192+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/wind_turbine.py took 0.266 seconds
+[2024-11-10T20:20:24.552+0000] {processor.py:153} INFO - Started process (PID=7435) to work on /opt/airflow/dags/wind_turbine.py
+[2024-11-10T20:20:24.554+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/wind_turbine.py for tasks to queue
+[2024-11-10T20:20:24.555+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:20:24.555+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/wind_turbine.py
+[2024-11-10T20:20:24.629+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Wind_turbine']) retrieved from /opt/airflow/dags/wind_turbine.py
+[2024-11-10T20:20:24.645+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:20:24.645+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-10T20:20:24.679+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:20:24.679+0000] {dag.py:3441} INFO - Setting next_dagrun for Wind_turbine to None, run_after=None
+[2024-11-10T20:20:24.700+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/wind_turbine.py took 0.154 seconds
+[2024-11-10T20:20:54.948+0000] {processor.py:153} INFO - Started process (PID=7502) to work on /opt/airflow/dags/wind_turbine.py
+[2024-11-10T20:20:54.949+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/wind_turbine.py for tasks to queue
+[2024-11-10T20:20:54.951+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:20:54.950+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/wind_turbine.py
+[2024-11-10T20:20:55.027+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Wind_turbine']) retrieved from /opt/airflow/dags/wind_turbine.py
+[2024-11-10T20:20:55.041+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:20:55.041+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-10T20:20:55.062+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:20:55.061+0000] {dag.py:3441} INFO - Setting next_dagrun for Wind_turbine to None, run_after=None
+[2024-11-10T20:20:55.327+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/wind_turbine.py took 0.386 seconds
+[2024-11-10T20:21:25.568+0000] {processor.py:153} INFO - Started process (PID=7553) to work on /opt/airflow/dags/wind_turbine.py
+[2024-11-10T20:21:25.570+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/wind_turbine.py for tasks to queue
+[2024-11-10T20:21:25.571+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:21:25.571+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/wind_turbine.py
+[2024-11-10T20:21:25.655+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Wind_turbine']) retrieved from /opt/airflow/dags/wind_turbine.py
+[2024-11-10T20:21:25.690+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:21:25.689+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-10T20:21:25.714+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:21:25.714+0000] {dag.py:3441} INFO - Setting next_dagrun for Wind_turbine to None, run_after=None
+[2024-11-10T20:21:25.730+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/wind_turbine.py took 0.168 seconds
+[2024-11-10T20:21:55.772+0000] {processor.py:153} INFO - Started process (PID=7620) to work on /opt/airflow/dags/wind_turbine.py
+[2024-11-10T20:21:55.774+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/wind_turbine.py for tasks to queue
+[2024-11-10T20:21:55.775+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:21:55.775+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/wind_turbine.py
+[2024-11-10T20:21:55.845+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Wind_turbine']) retrieved from /opt/airflow/dags/wind_turbine.py
+[2024-11-10T20:21:55.858+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:21:55.858+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-10T20:21:55.880+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:21:55.880+0000] {dag.py:3441} INFO - Setting next_dagrun for Wind_turbine to None, run_after=None
+[2024-11-10T20:21:55.895+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/wind_turbine.py took 0.130 seconds
+[2024-11-10T20:22:26.087+0000] {processor.py:153} INFO - Started process (PID=7672) to work on /opt/airflow/dags/wind_turbine.py
+[2024-11-10T20:22:26.089+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/wind_turbine.py for tasks to queue
+[2024-11-10T20:22:26.090+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:22:26.090+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/wind_turbine.py
+[2024-11-10T20:22:26.158+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Wind_turbine']) retrieved from /opt/airflow/dags/wind_turbine.py
+[2024-11-10T20:22:26.168+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:22:26.168+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-10T20:22:26.403+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:22:26.403+0000] {dag.py:3441} INFO - Setting next_dagrun for Wind_turbine to None, run_after=None
+[2024-11-10T20:22:26.415+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/wind_turbine.py took 0.333 seconds
+[2024-11-10T20:22:57.250+0000] {processor.py:153} INFO - Started process (PID=7739) to work on /opt/airflow/dags/wind_turbine.py
+[2024-11-10T20:22:57.251+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/wind_turbine.py for tasks to queue
+[2024-11-10T20:22:57.252+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:22:57.252+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/wind_turbine.py
+[2024-11-10T20:22:57.299+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Wind_turbine']) retrieved from /opt/airflow/dags/wind_turbine.py
+[2024-11-10T20:22:57.311+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:22:57.310+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-10T20:22:57.328+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:22:57.328+0000] {dag.py:3441} INFO - Setting next_dagrun for Wind_turbine to None, run_after=None
+[2024-11-10T20:22:57.339+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/wind_turbine.py took 0.091 seconds
+[2024-11-10T20:23:27.691+0000] {processor.py:153} INFO - Started process (PID=7799) to work on /opt/airflow/dags/wind_turbine.py
+[2024-11-10T20:23:27.694+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/wind_turbine.py for tasks to queue
+[2024-11-10T20:23:27.696+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:23:27.695+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/wind_turbine.py
+[2024-11-10T20:23:27.851+0000] {processor.py:753} INFO - DAG(s) dict_keys(['Wind_turbine']) retrieved from /opt/airflow/dags/wind_turbine.py
+[2024-11-10T20:23:27.891+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:23:27.890+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-10T20:23:27.916+0000] {logging_mixin.py:137} INFO - [2024-11-10T20:23:27.916+0000] {dag.py:3441} INFO - Setting next_dagrun for Wind_turbine to None, run_after=None
+[2024-11-10T20:23:27.935+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/wind_turbine.py took 0.263 seconds
