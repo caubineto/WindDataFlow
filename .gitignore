@@ -1,0 +1,30 @@
+# Arquivos de configuração sensíveis
+.env
+
+# Logs
+logs/
+*.log
+
+# Dados temporários e arquivos de cache
+tmp/
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Diretórios de dados
+data/
+*.csv
+*.json
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos do Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Arquivos do Docker
+docker-compose.override.yml

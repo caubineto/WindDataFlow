@@ -1,0 +1,27 @@
+[2024-11-09T21:12:46.835+0000] {taskinstance.py:1083} INFO - Dependencies all met for <TaskInstance: complex_group.tsk6 manual__2024-11-09T21:12:26.861689+00:00 [queued]>
+[2024-11-09T21:12:46.841+0000] {taskinstance.py:1083} INFO - Dependencies all met for <TaskInstance: complex_group.tsk6 manual__2024-11-09T21:12:26.861689+00:00 [queued]>
+[2024-11-09T21:12:46.841+0000] {taskinstance.py:1279} INFO - 
+--------------------------------------------------------------------------------
+[2024-11-09T21:12:46.841+0000] {taskinstance.py:1280} INFO - Starting attempt 1 of 1
+[2024-11-09T21:12:46.841+0000] {taskinstance.py:1281} INFO - 
+--------------------------------------------------------------------------------
+[2024-11-09T21:12:46.847+0000] {taskinstance.py:1300} INFO - Executing <Task(BashOperator): tsk6> on 2024-11-09 21:12:26.861689+00:00
+[2024-11-09T21:12:46.850+0000] {standard_task_runner.py:55} INFO - Started process 9286 to run task
+[2024-11-09T21:12:46.852+0000] {standard_task_runner.py:82} INFO - Running: ['***', 'tasks', 'run', 'complex_group', 'tsk6', 'manual__2024-11-09T21:12:26.861689+00:00', '--job-id', '111', '--raw', '--subdir', 'DAGS_FOLDER/complex_group_dag.py', '--cfg-path', '/tmp/tmpjs_lvrb7']
+[2024-11-09T21:12:46.852+0000] {standard_task_runner.py:83} INFO - Job 111: Subtask tsk6
+[2024-11-09T21:12:46.884+0000] {task_command.py:388} INFO - Running <TaskInstance: complex_group.tsk6 manual__2024-11-09T21:12:26.861689+00:00 [running]> on host a8ff7d7dd89a
+[2024-11-09T21:12:46.920+0000] {taskinstance.py:1509} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=complex_group
+AIRFLOW_CTX_TASK_ID=tsk6
+AIRFLOW_CTX_EXECUTION_DATE=2024-11-09T21:12:26.861689+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2024-11-09T21:12:26.861689+00:00
+[2024-11-09T21:12:46.921+0000] {subprocess.py:63} INFO - Tmp dir root location: 
+ /tmp
+[2024-11-09T21:12:46.921+0000] {subprocess.py:75} INFO - Running command: ['/bin/bash', '-c', 'sleep 5']
+[2024-11-09T21:12:46.926+0000] {subprocess.py:86} INFO - Output:
+[2024-11-09T21:12:51.931+0000] {subprocess.py:97} INFO - Command exited with return code 0
+[2024-11-09T21:12:51.982+0000] {taskinstance.py:1323} INFO - Marking task as SUCCESS. dag_id=complex_group, task_id=tsk6, execution_date=20241109T211226, start_date=20241109T211246, end_date=20241109T211251
+[2024-11-09T21:12:52.026+0000] {local_task_job.py:208} INFO - Task exited with return code 0
+[2024-11-09T21:12:52.068+0000] {taskinstance.py:2578} INFO - 2 downstream tasks scheduled from follow-on schedule check

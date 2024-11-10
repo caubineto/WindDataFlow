@@ -1,0 +1,25 @@
+[2024-11-09T22:17:14.732+0000] {processor.py:153} INFO - Started process (PID=14448) to work on /opt/airflow/dags/complex_group_dag2.py
+[2024-11-09T22:17:14.738+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/complex_group_dag2.py for tasks to queue
+[2024-11-09T22:17:14.741+0000] {logging_mixin.py:137} INFO - [2024-11-09T22:17:14.740+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/complex_group_dag2.py
+[2024-11-09T22:17:14.783+0000] {processor.py:753} INFO - DAG(s) dict_keys(['complex_group2']) retrieved from /opt/airflow/dags/complex_group_dag2.py
+[2024-11-09T22:17:14.923+0000] {logging_mixin.py:137} INFO - [2024-11-09T22:17:14.923+0000] {manager.py:504} INFO - Created Permission View: can delete on DAG:complex_group2
+[2024-11-09T22:17:14.930+0000] {logging_mixin.py:137} INFO - [2024-11-09T22:17:14.930+0000] {manager.py:504} INFO - Created Permission View: can edit on DAG:complex_group2
+[2024-11-09T22:17:14.935+0000] {logging_mixin.py:137} INFO - [2024-11-09T22:17:14.935+0000] {manager.py:504} INFO - Created Permission View: can read on DAG:complex_group2
+[2024-11-09T22:17:14.935+0000] {logging_mixin.py:137} INFO - [2024-11-09T22:17:14.935+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-09T22:17:15.801+0000] {logging_mixin.py:137} INFO - [2024-11-09T22:17:15.801+0000] {dag.py:2711} INFO - Creating ORM DAG for complex_group2
+[2024-11-09T22:17:15.820+0000] {logging_mixin.py:137} INFO - [2024-11-09T22:17:15.820+0000] {dag.py:3441} INFO - Setting next_dagrun for complex_group2 to None, run_after=None
+[2024-11-09T22:17:15.839+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/complex_group_dag2.py took 1.125 seconds
+[2024-11-09T22:17:46.459+0000] {processor.py:153} INFO - Started process (PID=14506) to work on /opt/airflow/dags/complex_group_dag2.py
+[2024-11-09T22:17:46.469+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/complex_group_dag2.py for tasks to queue
+[2024-11-09T22:17:46.476+0000] {logging_mixin.py:137} INFO - [2024-11-09T22:17:46.476+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/complex_group_dag2.py
+[2024-11-09T22:17:46.560+0000] {processor.py:753} INFO - DAG(s) dict_keys(['complex_group2']) retrieved from /opt/airflow/dags/complex_group_dag2.py
+[2024-11-09T22:17:46.747+0000] {logging_mixin.py:137} INFO - [2024-11-09T22:17:46.746+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-09T22:17:46.823+0000] {logging_mixin.py:137} INFO - [2024-11-09T22:17:46.822+0000] {dag.py:3441} INFO - Setting next_dagrun for complex_group2 to None, run_after=None
+[2024-11-09T22:17:46.876+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/complex_group_dag2.py took 0.444 seconds
+[2024-11-09T22:18:17.514+0000] {processor.py:153} INFO - Started process (PID=14548) to work on /opt/airflow/dags/complex_group_dag2.py
+[2024-11-09T22:18:17.518+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/complex_group_dag2.py for tasks to queue
+[2024-11-09T22:18:17.521+0000] {logging_mixin.py:137} INFO - [2024-11-09T22:18:17.521+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/complex_group_dag2.py
+[2024-11-09T22:18:17.564+0000] {processor.py:753} INFO - DAG(s) dict_keys(['complex_group2']) retrieved from /opt/airflow/dags/complex_group_dag2.py
+[2024-11-09T22:18:17.602+0000] {logging_mixin.py:137} INFO - [2024-11-09T22:18:17.602+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-09T22:18:17.638+0000] {logging_mixin.py:137} INFO - [2024-11-09T22:18:17.637+0000] {dag.py:3441} INFO - Setting next_dagrun for complex_group2 to None, run_after=None
+[2024-11-09T22:18:17.664+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/complex_group_dag2.py took 0.164 seconds

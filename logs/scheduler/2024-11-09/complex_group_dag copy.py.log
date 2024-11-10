@@ -1,0 +1,7 @@
+[2024-11-09T22:16:54.420+0000] {processor.py:153} INFO - Started process (PID=14431) to work on /opt/airflow/dags/complex_group_dag copy.py
+[2024-11-09T22:16:54.421+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/complex_group_dag copy.py for tasks to queue
+[2024-11-09T22:16:54.422+0000] {logging_mixin.py:137} INFO - [2024-11-09T22:16:54.422+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/complex_group_dag copy.py
+[2024-11-09T22:16:54.468+0000] {processor.py:753} INFO - DAG(s) dict_keys(['complex_group']) retrieved from /opt/airflow/dags/complex_group_dag copy.py
+[2024-11-09T22:16:54.546+0000] {logging_mixin.py:137} INFO - [2024-11-09T22:16:54.546+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-09T22:16:54.576+0000] {logging_mixin.py:137} INFO - [2024-11-09T22:16:54.576+0000] {dag.py:3441} INFO - Setting next_dagrun for complex_group to None, run_after=None
+[2024-11-09T22:16:54.601+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/complex_group_dag copy.py took 0.184 seconds

@@ -1,0 +1,22 @@
+[2024-11-10T19:22:56.399+0000] {taskinstance.py:1083} INFO - Dependencies all met for <TaskInstance: bigdata.big_data scheduled__2024-11-09T00:00:00+00:00 [queued]>
+[2024-11-10T19:22:56.407+0000] {taskinstance.py:1083} INFO - Dependencies all met for <TaskInstance: bigdata.big_data scheduled__2024-11-09T00:00:00+00:00 [queued]>
+[2024-11-10T19:22:56.407+0000] {taskinstance.py:1279} INFO - 
+--------------------------------------------------------------------------------
+[2024-11-10T19:22:56.409+0000] {taskinstance.py:1280} INFO - Starting attempt 1 of 1
+[2024-11-10T19:22:56.409+0000] {taskinstance.py:1281} INFO - 
+--------------------------------------------------------------------------------
+[2024-11-10T19:22:56.419+0000] {taskinstance.py:1300} INFO - Executing <Task(BigDataOperator): big_data> on 2024-11-09 00:00:00+00:00
+[2024-11-10T19:22:56.422+0000] {standard_task_runner.py:55} INFO - Started process 235 to run task
+[2024-11-10T19:22:56.425+0000] {standard_task_runner.py:82} INFO - Running: ['***', 'tasks', 'run', 'bigdata', 'big_data', 'scheduled__2024-11-09T00:00:00+00:00', '--job-id', '192', '--raw', '--subdir', 'DAGS_FOLDER/biga_data.py', '--cfg-path', '/tmp/tmpr9g5k417']
+[2024-11-10T19:22:56.426+0000] {standard_task_runner.py:83} INFO - Job 192: Subtask big_data
+[2024-11-10T19:22:56.477+0000] {task_command.py:388} INFO - Running <TaskInstance: bigdata.big_data scheduled__2024-11-09T00:00:00+00:00 [running]> on host dc889531e182
+[2024-11-10T19:22:56.517+0000] {taskinstance.py:1509} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=bigdata
+AIRFLOW_CTX_TASK_ID=big_data
+AIRFLOW_CTX_EXECUTION_DATE=2024-11-09T00:00:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2024-11-09T00:00:00+00:00
+[2024-11-10T19:22:56.634+0000] {taskinstance.py:1323} INFO - Marking task as SUCCESS. dag_id=bigdata, task_id=big_data, execution_date=20241109T000000, start_date=20241110T192256, end_date=20241110T192256
+[2024-11-10T19:22:56.686+0000] {local_task_job.py:208} INFO - Task exited with return code 0
+[2024-11-10T19:22:56.699+0000] {taskinstance.py:2578} INFO - 0 downstream tasks scheduled from follow-on schedule check

@@ -1,0 +1,18 @@
+[2024-11-09T21:07:11.316+0000] {processor.py:153} INFO - Started process (PID=9427) to work on /opt/airflow/dags/complex_2_dag.py
+[2024-11-09T21:07:11.318+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/complex_2_dag.py for tasks to queue
+[2024-11-09T21:07:11.328+0000] {logging_mixin.py:137} INFO - [2024-11-09T21:07:11.326+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/complex_2_dag.py
+[2024-11-09T21:07:11.371+0000] {processor.py:753} INFO - DAG(s) dict_keys(['complex_1']) retrieved from /opt/airflow/dags/complex_2_dag.py
+[2024-11-09T21:07:11.401+0000] {logging_mixin.py:137} INFO - [2024-11-09T21:07:11.401+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-09T21:07:11.429+0000] {logging_mixin.py:137} INFO - [2024-11-09T21:07:11.429+0000] {dag.py:3441} INFO - Setting next_dagrun for complex_1 to None, run_after=None
+[2024-11-09T21:07:11.457+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/complex_2_dag.py took 0.146 seconds
+[2024-11-09T21:07:17.752+0000] {processor.py:153} INFO - Started process (PID=9432) to work on /opt/airflow/dags/complex_2_dag.py
+[2024-11-09T21:07:17.753+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/complex_2_dag.py for tasks to queue
+[2024-11-09T21:07:17.754+0000] {logging_mixin.py:137} INFO - [2024-11-09T21:07:17.754+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/complex_2_dag.py
+[2024-11-09T21:07:17.774+0000] {processor.py:753} INFO - DAG(s) dict_keys(['complex_2']) retrieved from /opt/airflow/dags/complex_2_dag.py
+[2024-11-09T21:07:17.858+0000] {logging_mixin.py:137} INFO - [2024-11-09T21:07:17.858+0000] {manager.py:504} INFO - Created Permission View: can delete on DAG:complex_2
+[2024-11-09T21:07:17.865+0000] {logging_mixin.py:137} INFO - [2024-11-09T21:07:17.864+0000] {manager.py:504} INFO - Created Permission View: can edit on DAG:complex_2
+[2024-11-09T21:07:17.872+0000] {logging_mixin.py:137} INFO - [2024-11-09T21:07:17.872+0000] {manager.py:504} INFO - Created Permission View: can read on DAG:complex_2
+[2024-11-09T21:07:17.873+0000] {logging_mixin.py:137} INFO - [2024-11-09T21:07:17.873+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-09T21:07:17.887+0000] {logging_mixin.py:137} INFO - [2024-11-09T21:07:17.887+0000] {dag.py:2711} INFO - Creating ORM DAG for complex_2
+[2024-11-09T21:07:17.897+0000] {logging_mixin.py:137} INFO - [2024-11-09T21:07:17.897+0000] {dag.py:3441} INFO - Setting next_dagrun for complex_2 to None, run_after=None
+[2024-11-09T21:07:17.932+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/complex_2_dag.py took 0.183 seconds

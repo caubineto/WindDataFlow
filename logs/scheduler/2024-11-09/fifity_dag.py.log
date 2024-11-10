@@ -1,0 +1,775 @@
+[2024-11-09T20:51:26.878+0000] {processor.py:153} INFO - Started process (PID=7787) to work on /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:51:26.879+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/fifity_dag.py for tasks to queue
+[2024-11-09T20:51:26.879+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:51:26.879+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:51:26.894+0000] {processor.py:753} INFO - DAG(s) dict_keys(['fourth_dag']) retrieved from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:51:26.934+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:51:26.934+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-09T20:51:26.957+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:51:26.956+0000] {dag.py:3441} INFO - Setting next_dagrun for fourth_dag to None, run_after=None
+[2024-11-09T20:51:26.986+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/fifity_dag.py took 0.111 seconds
+[2024-11-09T20:51:49.467+0000] {processor.py:153} INFO - Started process (PID=7825) to work on /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:51:49.469+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/fifity_dag.py for tasks to queue
+[2024-11-09T20:51:49.470+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:51:49.470+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:51:49.490+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:51:49.536+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:51:49.536+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-09T20:51:49.548+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:51:49.548+0000] {dag.py:3441} INFO - Setting next_dagrun for first_dag to None, run_after=None
+[2024-11-09T20:51:49.560+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/fifity_dag.py took 0.097 seconds
+[2024-11-09T20:51:51.520+0000] {processor.py:153} INFO - Started process (PID=7842) to work on /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:51:51.522+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/fifity_dag.py for tasks to queue
+[2024-11-09T20:51:51.525+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:51:51.525+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:51:51.551+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:51:51.566+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:51:51.566+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-09T20:51:51.588+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:51:51.588+0000] {dag.py:3441} INFO - Setting next_dagrun for first_dag to None, run_after=None
+[2024-11-09T20:51:51.607+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/fifity_dag.py took 0.111 seconds
+[2024-11-09T20:51:55.634+0000] {processor.py:153} INFO - Started process (PID=7843) to work on /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:51:55.636+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/fifity_dag.py for tasks to queue
+[2024-11-09T20:51:55.637+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:51:55.637+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:51:55.674+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:51:55.685+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:51:55.685+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-09T20:51:55.707+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:51:55.707+0000] {dag.py:3441} INFO - Setting next_dagrun for first_dag to None, run_after=None
+[2024-11-09T20:51:55.728+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/fifity_dag.py took 0.099 seconds
+[2024-11-09T20:51:57.767+0000] {processor.py:153} INFO - Started process (PID=7846) to work on /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:51:57.768+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/fifity_dag.py for tasks to queue
+[2024-11-09T20:51:57.769+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:51:57.769+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:51:57.791+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:51:57.801+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:51:57.801+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-09T20:51:57.817+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:51:57.817+0000] {dag.py:3441} INFO - Setting next_dagrun for first_dag to None, run_after=None
+[2024-11-09T20:51:57.827+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/fifity_dag.py took 0.066 seconds
+[2024-11-09T20:52:00.836+0000] {processor.py:153} INFO - Started process (PID=7847) to work on /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:52:00.837+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/fifity_dag.py for tasks to queue
+[2024-11-09T20:52:00.838+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:52:00.838+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:52:00.848+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:52:00.847+0000] {dagbag.py:343} ERROR - Failed to import: /opt/airflow/dags/fifity_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 339, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/fifity_dag.py", line 13, in <module>
+    task5
+NameError: name 'task5' is not defined
+[2024-11-09T20:52:00.848+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:52:00.862+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/fifity_dag.py took 0.031 seconds
+[2024-11-09T20:52:01.879+0000] {processor.py:153} INFO - Started process (PID=7855) to work on /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:52:01.880+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/fifity_dag.py for tasks to queue
+[2024-11-09T20:52:01.880+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:52:01.880+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:52:01.904+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:52:01.918+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:52:01.918+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-09T20:52:01.936+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:52:01.936+0000] {dag.py:3441} INFO - Setting next_dagrun for first_dag to None, run_after=None
+[2024-11-09T20:52:01.948+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/fifity_dag.py took 0.074 seconds
+[2024-11-09T20:52:05.978+0000] {processor.py:153} INFO - Started process (PID=7865) to work on /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:52:05.981+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/fifity_dag.py for tasks to queue
+[2024-11-09T20:52:05.983+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:52:05.983+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:52:06.041+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:52:06.061+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:52:06.061+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-09T20:52:06.109+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:52:06.109+0000] {dag.py:3441} INFO - Setting next_dagrun for first_dag to None, run_after=None
+[2024-11-09T20:52:06.135+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/fifity_dag.py took 0.164 seconds
+[2024-11-09T20:52:09.360+0000] {processor.py:153} INFO - Started process (PID=7869) to work on /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:52:09.361+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/fifity_dag.py for tasks to queue
+[2024-11-09T20:52:09.362+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:52:09.362+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:52:09.395+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:52:09.427+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:52:09.426+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-09T20:52:09.452+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:52:09.452+0000] {dag.py:3441} INFO - Setting next_dagrun for first_dag to None, run_after=None
+[2024-11-09T20:52:09.470+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/fifity_dag.py took 0.126 seconds
+[2024-11-09T20:52:15.545+0000] {processor.py:153} INFO - Started process (PID=7887) to work on /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:52:15.547+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/fifity_dag.py for tasks to queue
+[2024-11-09T20:52:15.548+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:52:15.548+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:52:15.575+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:52:15.588+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:52:15.588+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-09T20:52:15.606+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:52:15.606+0000] {dag.py:3441} INFO - Setting next_dagrun for first_dag to None, run_after=None
+[2024-11-09T20:52:15.617+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/fifity_dag.py took 0.079 seconds
+[2024-11-09T20:52:20.684+0000] {processor.py:153} INFO - Started process (PID=7889) to work on /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:52:20.685+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/fifity_dag.py for tasks to queue
+[2024-11-09T20:52:20.686+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:52:20.686+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:52:20.706+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:52:20.750+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:52:20.750+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-09T20:52:20.763+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:52:20.763+0000] {dag.py:3441} INFO - Setting next_dagrun for first_dag to None, run_after=None
+[2024-11-09T20:52:20.773+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/fifity_dag.py took 0.095 seconds
+[2024-11-09T20:52:25.822+0000] {processor.py:153} INFO - Started process (PID=7906) to work on /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:52:25.823+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/fifity_dag.py for tasks to queue
+[2024-11-09T20:52:25.824+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:52:25.824+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:52:25.845+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:52:25.869+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:52:25.869+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-09T20:52:25.892+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:52:25.892+0000] {dag.py:3441} INFO - Setting next_dagrun for first_dag to None, run_after=None
+[2024-11-09T20:52:25.905+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/fifity_dag.py took 0.087 seconds
+[2024-11-09T20:52:30.002+0000] {processor.py:153} INFO - Started process (PID=7909) to work on /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:52:30.003+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/fifity_dag.py for tasks to queue
+[2024-11-09T20:52:30.004+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:52:30.003+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:52:30.025+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:52:30.037+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:52:30.037+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-09T20:52:30.054+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:52:30.054+0000] {dag.py:3441} INFO - Setting next_dagrun for first_dag to None, run_after=None
+[2024-11-09T20:52:30.065+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/fifity_dag.py took 0.065 seconds
+[2024-11-09T20:52:32.039+0000] {processor.py:153} INFO - Started process (PID=7910) to work on /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:52:32.042+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/fifity_dag.py for tasks to queue
+[2024-11-09T20:52:32.043+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:52:32.043+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:52:32.065+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:52:32.076+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:52:32.076+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-09T20:52:32.092+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:52:32.092+0000] {dag.py:3441} INFO - Setting next_dagrun for first_dag to None, run_after=None
+[2024-11-09T20:52:32.102+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/fifity_dag.py took 0.069 seconds
+[2024-11-09T20:52:36.145+0000] {processor.py:153} INFO - Started process (PID=7911) to work on /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:52:36.146+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/fifity_dag.py for tasks to queue
+[2024-11-09T20:52:36.147+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:52:36.147+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:52:36.161+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:52:36.160+0000] {dagbag.py:343} ERROR - Failed to import: /opt/airflow/dags/fifity_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 339, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/fifity_dag.py", line 21, in <module>
+    [task]
+NameError: name 'task' is not defined
+[2024-11-09T20:52:36.161+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:52:36.176+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/fifity_dag.py took 0.036 seconds
+[2024-11-09T20:52:38.380+0000] {processor.py:153} INFO - Started process (PID=7931) to work on /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:52:38.381+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/fifity_dag.py for tasks to queue
+[2024-11-09T20:52:38.382+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:52:38.382+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:52:38.407+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:52:38.418+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:52:38.418+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-09T20:52:38.434+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:52:38.434+0000] {dag.py:3441} INFO - Setting next_dagrun for first_dag to None, run_after=None
+[2024-11-09T20:52:38.445+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/fifity_dag.py took 0.072 seconds
+[2024-11-09T20:52:42.493+0000] {processor.py:153} INFO - Started process (PID=7932) to work on /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:52:42.496+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/fifity_dag.py for tasks to queue
+[2024-11-09T20:52:42.498+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:52:42.498+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:52:42.506+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:52:42.504+0000] {dagbag.py:343} ERROR - Failed to import: /opt/airflow/dags/fifity_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 339, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 724, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 860, in get_code
+  File "<frozen importlib._bootstrap_external>", line 791, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/fifity_dag.py", line 21
+    [task2 >>]
+             ^
+SyntaxError: invalid syntax
+[2024-11-09T20:52:42.507+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:52:42.532+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/fifity_dag.py took 0.051 seconds
+[2024-11-09T20:52:43.508+0000] {processor.py:153} INFO - Started process (PID=7933) to work on /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:52:43.509+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/fifity_dag.py for tasks to queue
+[2024-11-09T20:52:43.510+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:52:43.510+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:52:43.514+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:52:43.513+0000] {dagbag.py:343} ERROR - Failed to import: /opt/airflow/dags/fifity_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 339, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 724, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 860, in get_code
+  File "<frozen importlib._bootstrap_external>", line 791, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/fifity_dag.py", line 21
+    [task2 >>`]
+             ^
+SyntaxError: invalid syntax
+[2024-11-09T20:52:43.515+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:52:43.535+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/fifity_dag.py took 0.032 seconds
+[2024-11-09T20:52:44.524+0000] {processor.py:153} INFO - Started process (PID=7934) to work on /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:52:44.525+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/fifity_dag.py for tasks to queue
+[2024-11-09T20:52:44.526+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:52:44.526+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:52:44.530+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:52:44.529+0000] {dagbag.py:343} ERROR - Failed to import: /opt/airflow/dags/fifity_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 339, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 724, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 860, in get_code
+  File "<frozen importlib._bootstrap_external>", line 791, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/fifity_dag.py", line 21
+    [task2 >>]
+             ^
+SyntaxError: invalid syntax
+[2024-11-09T20:52:44.530+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:52:44.550+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/fifity_dag.py took 0.030 seconds
+[2024-11-09T20:52:46.603+0000] {processor.py:153} INFO - Started process (PID=7936) to work on /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:52:46.604+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/fifity_dag.py for tasks to queue
+[2024-11-09T20:52:46.605+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:52:46.605+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:52:46.627+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:52:46.638+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:52:46.638+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-09T20:52:46.654+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:52:46.654+0000] {dag.py:3441} INFO - Setting next_dagrun for first_dag to None, run_after=None
+[2024-11-09T20:52:46.664+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/fifity_dag.py took 0.065 seconds
+[2024-11-09T20:52:50.764+0000] {processor.py:153} INFO - Started process (PID=7954) to work on /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:52:50.766+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/fifity_dag.py for tasks to queue
+[2024-11-09T20:52:50.767+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:52:50.767+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:52:50.788+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:52:50.831+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:52:50.830+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-09T20:52:50.843+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:52:50.843+0000] {dag.py:3441} INFO - Setting next_dagrun for first_dag to None, run_after=None
+[2024-11-09T20:52:50.853+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/fifity_dag.py took 0.095 seconds
+[2024-11-09T20:52:52.796+0000] {processor.py:153} INFO - Started process (PID=7955) to work on /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:52:52.797+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/fifity_dag.py for tasks to queue
+[2024-11-09T20:52:52.798+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:52:52.798+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:52:52.821+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:52:52.833+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:52:52.833+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-09T20:52:52.850+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:52:52.850+0000] {dag.py:3441} INFO - Setting next_dagrun for first_dag to None, run_after=None
+[2024-11-09T20:52:52.860+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/fifity_dag.py took 0.069 seconds
+[2024-11-09T20:52:57.890+0000] {processor.py:153} INFO - Started process (PID=7956) to work on /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:52:57.893+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/fifity_dag.py for tasks to queue
+[2024-11-09T20:52:57.895+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:52:57.895+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:52:57.935+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:52:57.970+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:52:57.969+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-09T20:52:58.027+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:52:58.027+0000] {dag.py:3441} INFO - Setting next_dagrun for first_dag to None, run_after=None
+[2024-11-09T20:52:58.045+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/fifity_dag.py took 0.162 seconds
+[2024-11-09T20:52:59.085+0000] {processor.py:153} INFO - Started process (PID=7959) to work on /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:52:59.086+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/fifity_dag.py for tasks to queue
+[2024-11-09T20:52:59.087+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:52:59.087+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:52:59.107+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:52:59.121+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:52:59.121+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-09T20:52:59.140+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:52:59.140+0000] {dag.py:3441} INFO - Setting next_dagrun for first_dag to None, run_after=None
+[2024-11-09T20:52:59.150+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/fifity_dag.py took 0.069 seconds
+[2024-11-09T20:53:03.189+0000] {processor.py:153} INFO - Started process (PID=7976) to work on /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:53:03.190+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/fifity_dag.py for tasks to queue
+[2024-11-09T20:53:03.191+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:53:03.191+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:53:03.215+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:53:03.229+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:53:03.229+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-09T20:53:03.250+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:53:03.250+0000] {dag.py:3441} INFO - Setting next_dagrun for first_dag to None, run_after=None
+[2024-11-09T20:53:03.276+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/fifity_dag.py took 0.090 seconds
+[2024-11-09T20:53:05.264+0000] {processor.py:153} INFO - Started process (PID=7977) to work on /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:53:05.265+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/fifity_dag.py for tasks to queue
+[2024-11-09T20:53:05.266+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:53:05.266+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:53:05.282+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:53:05.297+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:53:05.297+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-09T20:53:05.345+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:53:05.344+0000] {dag.py:3441} INFO - Setting next_dagrun for first_dag to None, run_after=None
+[2024-11-09T20:53:05.365+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/fifity_dag.py took 0.104 seconds
+[2024-11-09T20:53:07.467+0000] {processor.py:153} INFO - Started process (PID=7980) to work on /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:53:07.470+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/fifity_dag.py for tasks to queue
+[2024-11-09T20:53:07.471+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:53:07.471+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:53:07.492+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:53:07.504+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:53:07.504+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-09T20:53:07.524+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:53:07.524+0000] {dag.py:3441} INFO - Setting next_dagrun for first_dag to None, run_after=None
+[2024-11-09T20:53:07.535+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/fifity_dag.py took 0.071 seconds
+[2024-11-09T20:53:12.625+0000] {processor.py:153} INFO - Started process (PID=7998) to work on /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:53:12.628+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/fifity_dag.py for tasks to queue
+[2024-11-09T20:53:12.629+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:53:12.628+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:53:12.634+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:53:12.632+0000] {dagbag.py:343} ERROR - Failed to import: /opt/airflow/dags/fifity_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 339, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 724, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 860, in get_code
+  File "<frozen importlib._bootstrap_external>", line 791, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/fifity_dag.py", line 22
+    task6 >>
+           ^
+SyntaxError: invalid syntax
+[2024-11-09T20:53:12.634+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:53:12.699+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/fifity_dag.py took 0.080 seconds
+[2024-11-09T20:53:13.631+0000] {processor.py:153} INFO - Started process (PID=7999) to work on /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:53:13.632+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/fifity_dag.py for tasks to queue
+[2024-11-09T20:53:13.632+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:53:13.632+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:53:13.650+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:53:13.661+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:53:13.660+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-09T20:53:13.679+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:53:13.679+0000] {dag.py:3441} INFO - Setting next_dagrun for first_dag to None, run_after=None
+[2024-11-09T20:53:13.691+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/fifity_dag.py took 0.062 seconds
+[2024-11-09T20:53:18.765+0000] {processor.py:153} INFO - Started process (PID=8001) to work on /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:53:18.767+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/fifity_dag.py for tasks to queue
+[2024-11-09T20:53:18.767+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:53:18.767+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:53:18.771+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:53:18.770+0000] {dagbag.py:343} ERROR - Failed to import: /opt/airflow/dags/fifity_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 339, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 724, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 860, in get_code
+  File "<frozen importlib._bootstrap_external>", line 791, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/fifity_dag.py", line 22
+    task6 >> [task7, task8
+                         ^
+SyntaxError: unexpected EOF while parsing
+[2024-11-09T20:53:18.772+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:53:18.796+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/fifity_dag.py took 0.035 seconds
+[2024-11-09T20:53:20.851+0000] {processor.py:153} INFO - Started process (PID=8003) to work on /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:53:20.852+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/fifity_dag.py for tasks to queue
+[2024-11-09T20:53:20.853+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:53:20.853+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:53:20.858+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:53:20.857+0000] {dagbag.py:343} ERROR - Failed to import: /opt/airflow/dags/fifity_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 339, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 724, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 860, in get_code
+  File "<frozen importlib._bootstrap_external>", line 791, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/fifity_dag.py", line 22
+    task6 >> [task7, task8.
+                          ^
+SyntaxError: unexpected EOF while parsing
+[2024-11-09T20:53:20.858+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:53:20.877+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/fifity_dag.py took 0.031 seconds
+[2024-11-09T20:53:21.909+0000] {processor.py:153} INFO - Started process (PID=8004) to work on /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:53:21.910+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/fifity_dag.py for tasks to queue
+[2024-11-09T20:53:21.911+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:53:21.911+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:53:21.924+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:53:21.923+0000] {dagbag.py:343} ERROR - Failed to import: /opt/airflow/dags/fifity_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 339, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/fifity_dag.py", line 22, in <module>
+    task6 >> [task7, task8. task9]
+AttributeError: 'BashOperator' object has no attribute 'task9'
+[2024-11-09T20:53:21.925+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:53:21.940+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/fifity_dag.py took 0.038 seconds
+[2024-11-09T20:53:25.945+0000] {processor.py:153} INFO - Started process (PID=8021) to work on /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:53:25.946+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/fifity_dag.py for tasks to queue
+[2024-11-09T20:53:25.947+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:53:25.947+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:53:26.004+0000] {processor.py:753} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:53:26.046+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:53:26.046+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-09T20:53:26.060+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:53:26.060+0000] {dag.py:3441} INFO - Setting next_dagrun for first_dag to None, run_after=None
+[2024-11-09T20:53:26.071+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/fifity_dag.py took 0.130 seconds
+[2024-11-09T20:53:38.475+0000] {processor.py:153} INFO - Started process (PID=8042) to work on /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:53:38.476+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/fifity_dag.py for tasks to queue
+[2024-11-09T20:53:38.476+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:53:38.476+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:53:38.491+0000] {processor.py:753} INFO - DAG(s) dict_keys(['fif']) retrieved from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:53:38.593+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:53:38.593+0000] {manager.py:504} INFO - Created Permission View: can delete on DAG:fif
+[2024-11-09T20:53:38.601+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:53:38.601+0000] {manager.py:504} INFO - Created Permission View: can edit on DAG:fif
+[2024-11-09T20:53:38.608+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:53:38.608+0000] {manager.py:504} INFO - Created Permission View: can read on DAG:fif
+[2024-11-09T20:53:38.608+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:53:38.608+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-09T20:53:38.621+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:53:38.621+0000] {dag.py:2711} INFO - Creating ORM DAG for fif
+[2024-11-09T20:53:38.633+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:53:38.633+0000] {dag.py:3441} INFO - Setting next_dagrun for fif to None, run_after=None
+[2024-11-09T20:53:38.662+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/fifity_dag.py took 0.189 seconds
+[2024-11-09T20:53:41.604+0000] {processor.py:153} INFO - Started process (PID=8044) to work on /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:53:41.605+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/fifity_dag.py for tasks to queue
+[2024-11-09T20:53:41.607+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:53:41.607+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:53:41.630+0000] {processor.py:753} INFO - DAG(s) dict_keys(['fifty']) retrieved from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:53:41.705+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:53:41.705+0000] {manager.py:504} INFO - Created Permission View: can delete on DAG:fifty
+[2024-11-09T20:53:41.709+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:53:41.709+0000] {manager.py:504} INFO - Created Permission View: can edit on DAG:fifty
+[2024-11-09T20:53:41.712+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:53:41.712+0000] {manager.py:504} INFO - Created Permission View: can read on DAG:fifty
+[2024-11-09T20:53:41.712+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:53:41.712+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-09T20:53:41.719+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:53:41.719+0000] {dag.py:2711} INFO - Creating ORM DAG for fifty
+[2024-11-09T20:53:41.724+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:53:41.724+0000] {dag.py:3441} INFO - Setting next_dagrun for fifty to None, run_after=None
+[2024-11-09T20:53:41.732+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/fifity_dag.py took 0.133 seconds
+[2024-11-09T20:53:44.747+0000] {processor.py:153} INFO - Started process (PID=8045) to work on /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:53:44.748+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/fifity_dag.py for tasks to queue
+[2024-11-09T20:53:44.749+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:53:44.749+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:53:44.775+0000] {processor.py:753} INFO - DAG(s) dict_keys(['fifty_dag']) retrieved from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:53:44.841+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:53:44.841+0000] {manager.py:504} INFO - Created Permission View: can delete on DAG:fifty_dag
+[2024-11-09T20:53:44.845+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:53:44.845+0000] {manager.py:504} INFO - Created Permission View: can edit on DAG:fifty_dag
+[2024-11-09T20:53:44.847+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:53:44.847+0000] {manager.py:504} INFO - Created Permission View: can read on DAG:fifty_dag
+[2024-11-09T20:53:44.847+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:53:44.847+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-09T20:53:44.855+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:53:44.855+0000] {dag.py:2711} INFO - Creating ORM DAG for fifty_dag
+[2024-11-09T20:53:44.860+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:53:44.860+0000] {dag.py:3441} INFO - Setting next_dagrun for fifty_dag to None, run_after=None
+[2024-11-09T20:53:44.868+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/fifity_dag.py took 0.127 seconds
+[2024-11-09T20:53:56.083+0000] {processor.py:153} INFO - Started process (PID=8064) to work on /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:53:56.085+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/fifity_dag.py for tasks to queue
+[2024-11-09T20:53:56.086+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:53:56.086+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:53:56.103+0000] {processor.py:753} INFO - DAG(s) dict_keys(['fifity_dag']) retrieved from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:53:56.183+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:53:56.183+0000] {manager.py:504} INFO - Created Permission View: can delete on DAG:fifity_dag
+[2024-11-09T20:53:56.188+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:53:56.188+0000] {manager.py:504} INFO - Created Permission View: can edit on DAG:fifity_dag
+[2024-11-09T20:53:56.190+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:53:56.190+0000] {manager.py:504} INFO - Created Permission View: can read on DAG:fifity_dag
+[2024-11-09T20:53:56.190+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:53:56.190+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-09T20:53:56.197+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:53:56.197+0000] {dag.py:2711} INFO - Creating ORM DAG for fifity_dag
+[2024-11-09T20:53:56.203+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:53:56.203+0000] {dag.py:3441} INFO - Setting next_dagrun for fifity_dag to None, run_after=None
+[2024-11-09T20:53:56.211+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/fifity_dag.py took 0.131 seconds
+[2024-11-09T20:54:27.123+0000] {processor.py:153} INFO - Started process (PID=8120) to work on /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:54:27.125+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/fifity_dag.py for tasks to queue
+[2024-11-09T20:54:27.127+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:54:27.127+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:54:27.151+0000] {processor.py:753} INFO - DAG(s) dict_keys(['fifity_dag']) retrieved from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:54:27.197+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:54:27.196+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-09T20:54:27.214+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:54:27.214+0000] {dag.py:3441} INFO - Setting next_dagrun for fifity_dag to None, run_after=None
+[2024-11-09T20:54:27.225+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/fifity_dag.py took 0.107 seconds
+[2024-11-09T20:54:57.786+0000] {processor.py:153} INFO - Started process (PID=8180) to work on /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:54:57.788+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/fifity_dag.py for tasks to queue
+[2024-11-09T20:54:57.788+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:54:57.788+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:54:57.803+0000] {processor.py:753} INFO - DAG(s) dict_keys(['fifity_dag']) retrieved from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:54:57.821+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:54:57.821+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-09T20:54:57.836+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:54:57.836+0000] {dag.py:3441} INFO - Setting next_dagrun for fifity_dag to None, run_after=None
+[2024-11-09T20:54:57.846+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/fifity_dag.py took 0.062 seconds
+[2024-11-09T20:55:28.410+0000] {processor.py:153} INFO - Started process (PID=8229) to work on /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:55:28.412+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/fifity_dag.py for tasks to queue
+[2024-11-09T20:55:28.413+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:55:28.413+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:55:28.437+0000] {processor.py:753} INFO - DAG(s) dict_keys(['fifity_dag']) retrieved from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:55:28.462+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:55:28.462+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-09T20:55:28.510+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:55:28.510+0000] {dag.py:3441} INFO - Setting next_dagrun for fifity_dag to None, run_after=None
+[2024-11-09T20:55:28.524+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/fifity_dag.py took 0.145 seconds
+[2024-11-09T20:55:59.266+0000] {processor.py:153} INFO - Started process (PID=8285) to work on /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:55:59.268+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/fifity_dag.py for tasks to queue
+[2024-11-09T20:55:59.269+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:55:59.269+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:55:59.295+0000] {processor.py:753} INFO - DAG(s) dict_keys(['fifity_dag']) retrieved from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:55:59.321+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:55:59.321+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-09T20:55:59.339+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:55:59.339+0000] {dag.py:3441} INFO - Setting next_dagrun for fifity_dag to None, run_after=None
+[2024-11-09T20:55:59.349+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/fifity_dag.py took 0.088 seconds
+[2024-11-09T20:56:17.675+0000] {processor.py:153} INFO - Started process (PID=8314) to work on /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:56:17.677+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/fifity_dag.py for tasks to queue
+[2024-11-09T20:56:17.678+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:56:17.677+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:56:17.733+0000] {processor.py:753} INFO - DAG(s) dict_keys(['fifity_dag']) retrieved from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:56:17.762+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:56:17.762+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-09T20:56:17.784+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:56:17.784+0000] {dag.py:3441} INFO - Setting next_dagrun for fifity_dag to None, run_after=None
+[2024-11-09T20:56:17.799+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/fifity_dag.py took 0.130 seconds
+[2024-11-09T20:56:21.865+0000] {processor.py:153} INFO - Started process (PID=8325) to work on /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:56:21.867+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/fifity_dag.py for tasks to queue
+[2024-11-09T20:56:21.868+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:56:21.868+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:56:21.880+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:56:21.877+0000] {dagbag.py:343} ERROR - Failed to import: /opt/airflow/dags/fifity_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 339, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 724, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 860, in get_code
+  File "<frozen importlib._bootstrap_external>", line 791, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/fifity_dag.py", line 18
+    trigger)
+          ^
+SyntaxError: invalid syntax
+[2024-11-09T20:56:21.881+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:56:21.901+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/fifity_dag.py took 0.047 seconds
+[2024-11-09T20:56:25.949+0000] {processor.py:153} INFO - Started process (PID=8327) to work on /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:56:25.950+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/fifity_dag.py for tasks to queue
+[2024-11-09T20:56:25.951+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:56:25.951+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:56:25.954+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:56:25.953+0000] {dagbag.py:343} ERROR - Failed to import: /opt/airflow/dags/fifity_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 339, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 724, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 860, in get_code
+  File "<frozen importlib._bootstrap_external>", line 791, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/fifity_dag.py", line 18
+    trigger_rule='one_failed')
+               ^
+SyntaxError: invalid syntax
+[2024-11-09T20:56:25.955+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:56:25.971+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/fifity_dag.py took 0.027 seconds
+[2024-11-09T20:56:31.020+0000] {processor.py:153} INFO - Started process (PID=8344) to work on /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:56:31.021+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/fifity_dag.py for tasks to queue
+[2024-11-09T20:56:31.022+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:56:31.022+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:56:31.027+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:56:31.025+0000] {dagbag.py:343} ERROR - Failed to import: /opt/airflow/dags/fifity_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 339, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 724, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 860, in get_code
+  File "<frozen importlib._bootstrap_external>", line 791, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/fifity_dag.py", line 18
+    trigger_rule='all')
+               ^
+SyntaxError: invalid syntax
+[2024-11-09T20:56:31.027+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:56:31.067+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/fifity_dag.py took 0.051 seconds
+[2024-11-09T20:56:35.138+0000] {processor.py:153} INFO - Started process (PID=8347) to work on /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:56:35.140+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/fifity_dag.py for tasks to queue
+[2024-11-09T20:56:35.141+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:56:35.141+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:56:35.146+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:56:35.145+0000] {dagbag.py:343} ERROR - Failed to import: /opt/airflow/dags/fifity_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 339, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 724, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 860, in get_code
+  File "<frozen importlib._bootstrap_external>", line 791, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/fifity_dag.py", line 18
+    trigger_rule='all_success')
+               ^
+SyntaxError: invalid syntax
+[2024-11-09T20:56:35.147+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:56:35.178+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/fifity_dag.py took 0.047 seconds
+[2024-11-09T20:56:44.410+0000] {processor.py:153} INFO - Started process (PID=8367) to work on /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:56:44.412+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/fifity_dag.py for tasks to queue
+[2024-11-09T20:56:44.414+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:56:44.413+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:56:44.423+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:56:44.421+0000] {dagbag.py:343} ERROR - Failed to import: /opt/airflow/dags/fifity_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 339, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 724, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 860, in get_code
+  File "<frozen importlib._bootstrap_external>", line 791, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/fifity_dag.py", line 19
+    trigger_rule='all_success')
+               ^
+SyntaxError: invalid syntax
+[2024-11-09T20:56:44.423+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:56:44.449+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/fifity_dag.py took 0.047 seconds
+[2024-11-09T20:56:45.443+0000] {processor.py:153} INFO - Started process (PID=8368) to work on /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:56:45.445+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/fifity_dag.py for tasks to queue
+[2024-11-09T20:56:45.447+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:56:45.447+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:56:45.452+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:56:45.450+0000] {dagbag.py:343} ERROR - Failed to import: /opt/airflow/dags/fifity_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 339, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 724, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 860, in get_code
+  File "<frozen importlib._bootstrap_external>", line 791, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/fifity_dag.py", line 15
+    trigger_rule='all_success')
+               ^
+SyntaxError: invalid syntax
+[2024-11-09T20:56:45.453+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:56:45.473+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/fifity_dag.py took 0.039 seconds
+[2024-11-09T20:56:52.598+0000] {processor.py:153} INFO - Started process (PID=8370) to work on /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:56:52.599+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/fifity_dag.py for tasks to queue
+[2024-11-09T20:56:52.600+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:56:52.599+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:56:52.604+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:56:52.602+0000] {dagbag.py:343} ERROR - Failed to import: /opt/airflow/dags/fifity_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 339, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 724, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 860, in get_code
+  File "<frozen importlib._bootstrap_external>", line 791, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/fifity_dag.py", line 15
+    trigger_rule='all_success')
+               ^
+SyntaxError: invalid syntax
+[2024-11-09T20:56:52.605+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:56:52.624+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/fifity_dag.py took 0.030 seconds
+[2024-11-09T20:56:55.689+0000] {processor.py:153} INFO - Started process (PID=8388) to work on /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:56:55.691+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/fifity_dag.py for tasks to queue
+[2024-11-09T20:56:55.692+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:56:55.692+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:56:55.698+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:56:55.696+0000] {dagbag.py:343} ERROR - Failed to import: /opt/airflow/dags/fifity_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 339, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 724, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 860, in get_code
+  File "<frozen importlib._bootstrap_external>", line 791, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/fifity_dag.py", line 15
+    trigger_rule='all_success')
+               ^
+SyntaxError: invalid syntax
+[2024-11-09T20:56:55.698+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:56:55.734+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/fifity_dag.py took 0.050 seconds
+[2024-11-09T20:56:56.740+0000] {processor.py:153} INFO - Started process (PID=8389) to work on /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:56:56.740+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/fifity_dag.py for tasks to queue
+[2024-11-09T20:56:56.741+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:56:56.741+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:56:56.747+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:56:56.746+0000] {dagbag.py:343} ERROR - Failed to import: /opt/airflow/dags/fifity_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 339, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 724, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 860, in get_code
+  File "<frozen importlib._bootstrap_external>", line 791, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/fifity_dag.py", line 15
+    trigger_rule='all_success')
+               ^
+SyntaxError: invalid syntax
+[2024-11-09T20:56:56.747+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:56:56.759+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/fifity_dag.py took 0.024 seconds
+[2024-11-09T20:57:00.838+0000] {processor.py:153} INFO - Started process (PID=8390) to work on /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:57:00.840+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/fifity_dag.py for tasks to queue
+[2024-11-09T20:57:00.841+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:57:00.841+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:57:00.848+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:57:00.846+0000] {dagbag.py:343} ERROR - Failed to import: /opt/airflow/dags/fifity_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 339, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 724, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 860, in get_code
+  File "<frozen importlib._bootstrap_external>", line 791, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/fifity_dag.py", line 15
+    trigger_rule='all_success')
+               ^
+SyntaxError: invalid syntax
+[2024-11-09T20:57:00.848+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:57:00.890+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/fifity_dag.py took 0.059 seconds
+[2024-11-09T20:57:20.608+0000] {processor.py:153} INFO - Started process (PID=8428) to work on /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:57:20.611+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/fifity_dag.py for tasks to queue
+[2024-11-09T20:57:20.613+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:57:20.613+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:57:20.621+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:57:20.618+0000] {dagbag.py:343} ERROR - Failed to import: /opt/airflow/dags/fifity_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 339, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 724, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 860, in get_code
+  File "<frozen importlib._bootstrap_external>", line 791, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/fifity_dag.py", line 19
+    trigger_rule='one_failed')
+               ^
+SyntaxError: invalid syntax
+[2024-11-09T20:57:20.621+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:57:20.649+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/fifity_dag.py took 0.052 seconds
+[2024-11-09T20:57:26.867+0000] {processor.py:153} INFO - Started process (PID=8431) to work on /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:57:26.872+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/fifity_dag.py for tasks to queue
+[2024-11-09T20:57:26.873+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:57:26.873+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:57:26.919+0000] {processor.py:753} INFO - DAG(s) dict_keys(['fifity_dag']) retrieved from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:57:26.973+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:57:26.973+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-09T20:57:26.995+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:57:26.995+0000] {dag.py:3441} INFO - Setting next_dagrun for fifity_dag to None, run_after=None
+[2024-11-09T20:57:27.011+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/fifity_dag.py took 0.152 seconds
+[2024-11-09T20:57:57.685+0000] {processor.py:153} INFO - Started process (PID=8487) to work on /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:57:57.687+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/fifity_dag.py for tasks to queue
+[2024-11-09T20:57:57.688+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:57:57.688+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:57:57.712+0000] {processor.py:753} INFO - DAG(s) dict_keys(['fifity_dag']) retrieved from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:57:57.734+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:57:57.734+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-09T20:57:57.752+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:57:57.752+0000] {dag.py:3441} INFO - Setting next_dagrun for fifity_dag to None, run_after=None
+[2024-11-09T20:57:57.766+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/fifity_dag.py took 0.087 seconds
+[2024-11-09T20:58:28.371+0000] {processor.py:153} INFO - Started process (PID=8555) to work on /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:58:28.373+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/fifity_dag.py for tasks to queue
+[2024-11-09T20:58:28.374+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:58:28.374+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:58:28.410+0000] {processor.py:753} INFO - DAG(s) dict_keys(['fifity_dag']) retrieved from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:58:28.435+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:58:28.435+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-09T20:58:28.452+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:58:28.452+0000] {dag.py:3441} INFO - Setting next_dagrun for fifity_dag to None, run_after=None
+[2024-11-09T20:58:28.462+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/fifity_dag.py took 0.097 seconds
+[2024-11-09T20:58:58.979+0000] {processor.py:153} INFO - Started process (PID=8595) to work on /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:58:58.980+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/fifity_dag.py for tasks to queue
+[2024-11-09T20:58:58.981+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:58:58.981+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:58:58.999+0000] {processor.py:753} INFO - DAG(s) dict_keys(['fifity_dag']) retrieved from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:58:59.018+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:58:59.018+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-09T20:58:59.034+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:58:59.034+0000] {dag.py:3441} INFO - Setting next_dagrun for fifity_dag to None, run_after=None
+[2024-11-09T20:58:59.044+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/fifity_dag.py took 0.070 seconds
+[2024-11-09T20:59:29.935+0000] {processor.py:153} INFO - Started process (PID=8651) to work on /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:59:29.938+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/fifity_dag.py for tasks to queue
+[2024-11-09T20:59:29.938+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:59:29.938+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:59:29.966+0000] {processor.py:753} INFO - DAG(s) dict_keys(['fifity_dag']) retrieved from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:59:29.995+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:59:29.994+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-09T20:59:30.018+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:59:30.018+0000] {dag.py:3441} INFO - Setting next_dagrun for fifity_dag to None, run_after=None
+[2024-11-09T20:59:30.034+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/fifity_dag.py took 0.103 seconds
+[2024-11-09T20:59:41.263+0000] {processor.py:153} INFO - Started process (PID=8670) to work on /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:59:41.267+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/fifity_dag.py for tasks to queue
+[2024-11-09T20:59:41.271+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:59:41.270+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:59:41.327+0000] {processor.py:753} INFO - DAG(s) dict_keys(['fifity_dag']) retrieved from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:59:41.365+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:59:41.365+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-09T20:59:41.391+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:59:41.390+0000] {dag.py:3441} INFO - Setting next_dagrun for fifity_dag to None, run_after=None
+[2024-11-09T20:59:41.415+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/fifity_dag.py took 0.160 seconds
+[2024-11-09T20:59:48.596+0000] {processor.py:153} INFO - Started process (PID=8683) to work on /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:59:48.614+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/fifity_dag.py for tasks to queue
+[2024-11-09T20:59:48.624+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:59:48.624+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:59:48.675+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:59:48.674+0000] {dagbag.py:343} ERROR - Failed to import: /opt/airflow/dags/fifity_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 339, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/fifity_dag.py", line 20, in <module>
+    task
+NameError: name 'task' is not defined
+[2024-11-09T20:59:48.676+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:59:48.711+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/fifity_dag.py took 0.122 seconds
+[2024-11-09T20:59:49.660+0000] {processor.py:153} INFO - Started process (PID=8691) to work on /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:59:49.661+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/fifity_dag.py for tasks to queue
+[2024-11-09T20:59:49.661+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:59:49.661+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:59:49.679+0000] {processor.py:753} INFO - DAG(s) dict_keys(['fifity_dag']) retrieved from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:59:49.702+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:59:49.702+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-09T20:59:49.717+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:59:49.717+0000] {dag.py:3441} INFO - Setting next_dagrun for fifity_dag to None, run_after=None
+[2024-11-09T20:59:49.727+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/fifity_dag.py took 0.069 seconds
+[2024-11-09T20:59:51.775+0000] {processor.py:153} INFO - Started process (PID=8692) to work on /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:59:51.776+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/fifity_dag.py for tasks to queue
+[2024-11-09T20:59:51.777+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:59:51.777+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:59:51.799+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:59:51.796+0000] {dagbag.py:343} ERROR - Failed to import: /opt/airflow/dags/fifity_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 339, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/fifity_dag.py", line 20, in <module>
+    task10
+NameError: name 'task10' is not defined
+[2024-11-09T20:59:51.800+0000] {processor.py:755} WARNING - No viable dags retrieved from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:59:51.841+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/fifity_dag.py took 0.073 seconds
+[2024-11-09T20:59:52.793+0000] {processor.py:153} INFO - Started process (PID=8693) to work on /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:59:52.796+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/fifity_dag.py for tasks to queue
+[2024-11-09T20:59:52.796+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:59:52.796+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:59:52.816+0000] {processor.py:753} INFO - DAG(s) dict_keys(['fifity_dag']) retrieved from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T20:59:52.918+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:59:52.917+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-09T20:59:52.941+0000] {logging_mixin.py:137} INFO - [2024-11-09T20:59:52.941+0000] {dag.py:3441} INFO - Setting next_dagrun for fifity_dag to None, run_after=None
+[2024-11-09T20:59:52.960+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/fifity_dag.py took 0.172 seconds
+[2024-11-09T21:00:23.411+0000] {processor.py:153} INFO - Started process (PID=8749) to work on /opt/airflow/dags/fifity_dag.py
+[2024-11-09T21:00:23.412+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/fifity_dag.py for tasks to queue
+[2024-11-09T21:00:23.413+0000] {logging_mixin.py:137} INFO - [2024-11-09T21:00:23.413+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T21:00:23.433+0000] {processor.py:753} INFO - DAG(s) dict_keys(['fifity_dag']) retrieved from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T21:00:23.456+0000] {logging_mixin.py:137} INFO - [2024-11-09T21:00:23.456+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-09T21:00:23.476+0000] {logging_mixin.py:137} INFO - [2024-11-09T21:00:23.476+0000] {dag.py:3441} INFO - Setting next_dagrun for fifity_dag to None, run_after=None
+[2024-11-09T21:00:23.489+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/fifity_dag.py took 0.089 seconds
+[2024-11-09T21:00:53.982+0000] {processor.py:153} INFO - Started process (PID=8800) to work on /opt/airflow/dags/fifity_dag.py
+[2024-11-09T21:00:53.984+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/fifity_dag.py for tasks to queue
+[2024-11-09T21:00:53.985+0000] {logging_mixin.py:137} INFO - [2024-11-09T21:00:53.985+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T21:00:54.005+0000] {processor.py:753} INFO - DAG(s) dict_keys(['fifity_dag']) retrieved from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T21:00:54.026+0000] {logging_mixin.py:137} INFO - [2024-11-09T21:00:54.026+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-09T21:00:54.044+0000] {logging_mixin.py:137} INFO - [2024-11-09T21:00:54.044+0000] {dag.py:3441} INFO - Setting next_dagrun for fifity_dag to None, run_after=None
+[2024-11-09T21:00:54.052+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/fifity_dag.py took 0.077 seconds
+[2024-11-09T21:01:24.641+0000] {processor.py:153} INFO - Started process (PID=8856) to work on /opt/airflow/dags/fifity_dag.py
+[2024-11-09T21:01:24.642+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/fifity_dag.py for tasks to queue
+[2024-11-09T21:01:24.643+0000] {logging_mixin.py:137} INFO - [2024-11-09T21:01:24.643+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T21:01:24.662+0000] {processor.py:753} INFO - DAG(s) dict_keys(['fifity_dag']) retrieved from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T21:01:24.683+0000] {logging_mixin.py:137} INFO - [2024-11-09T21:01:24.682+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-09T21:01:24.699+0000] {logging_mixin.py:137} INFO - [2024-11-09T21:01:24.699+0000] {dag.py:3441} INFO - Setting next_dagrun for fifity_dag to None, run_after=None
+[2024-11-09T21:01:24.708+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/fifity_dag.py took 0.071 seconds
+[2024-11-09T21:01:55.301+0000] {processor.py:153} INFO - Started process (PID=8896) to work on /opt/airflow/dags/fifity_dag.py
+[2024-11-09T21:01:55.304+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/fifity_dag.py for tasks to queue
+[2024-11-09T21:01:55.305+0000] {logging_mixin.py:137} INFO - [2024-11-09T21:01:55.305+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T21:01:55.321+0000] {processor.py:753} INFO - DAG(s) dict_keys(['fifity_dag']) retrieved from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T21:01:55.336+0000] {logging_mixin.py:137} INFO - [2024-11-09T21:01:55.336+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-09T21:01:55.349+0000] {logging_mixin.py:137} INFO - [2024-11-09T21:01:55.349+0000] {dag.py:3441} INFO - Setting next_dagrun for fifity_dag to None, run_after=None
+[2024-11-09T21:01:55.357+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/fifity_dag.py took 0.064 seconds
+[2024-11-09T21:02:25.972+0000] {processor.py:153} INFO - Started process (PID=8952) to work on /opt/airflow/dags/fifity_dag.py
+[2024-11-09T21:02:25.974+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/fifity_dag.py for tasks to queue
+[2024-11-09T21:02:25.975+0000] {logging_mixin.py:137} INFO - [2024-11-09T21:02:25.975+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T21:02:25.994+0000] {processor.py:753} INFO - DAG(s) dict_keys(['fifity_dag']) retrieved from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T21:02:26.016+0000] {logging_mixin.py:137} INFO - [2024-11-09T21:02:26.015+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-09T21:02:26.031+0000] {logging_mixin.py:137} INFO - [2024-11-09T21:02:26.031+0000] {dag.py:3441} INFO - Setting next_dagrun for fifity_dag to None, run_after=None
+[2024-11-09T21:02:26.040+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/fifity_dag.py took 0.073 seconds
+[2024-11-09T21:02:56.616+0000] {processor.py:153} INFO - Started process (PID=9008) to work on /opt/airflow/dags/fifity_dag.py
+[2024-11-09T21:02:56.620+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/fifity_dag.py for tasks to queue
+[2024-11-09T21:02:56.621+0000] {logging_mixin.py:137} INFO - [2024-11-09T21:02:56.620+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T21:02:56.649+0000] {processor.py:753} INFO - DAG(s) dict_keys(['fifity_dag']) retrieved from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T21:02:56.673+0000] {logging_mixin.py:137} INFO - [2024-11-09T21:02:56.673+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-09T21:02:56.694+0000] {logging_mixin.py:137} INFO - [2024-11-09T21:02:56.694+0000] {dag.py:3441} INFO - Setting next_dagrun for fifity_dag to None, run_after=None
+[2024-11-09T21:02:56.707+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/fifity_dag.py took 0.099 seconds
+[2024-11-09T21:03:27.283+0000] {processor.py:153} INFO - Started process (PID=9048) to work on /opt/airflow/dags/fifity_dag.py
+[2024-11-09T21:03:27.285+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/fifity_dag.py for tasks to queue
+[2024-11-09T21:03:27.286+0000] {logging_mixin.py:137} INFO - [2024-11-09T21:03:27.286+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T21:03:27.301+0000] {processor.py:753} INFO - DAG(s) dict_keys(['fifity_dag']) retrieved from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T21:03:27.318+0000] {logging_mixin.py:137} INFO - [2024-11-09T21:03:27.318+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-09T21:03:27.335+0000] {logging_mixin.py:137} INFO - [2024-11-09T21:03:27.335+0000] {dag.py:3441} INFO - Setting next_dagrun for fifity_dag to None, run_after=None
+[2024-11-09T21:03:27.344+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/fifity_dag.py took 0.064 seconds
+[2024-11-09T21:03:57.911+0000] {processor.py:153} INFO - Started process (PID=9104) to work on /opt/airflow/dags/fifity_dag.py
+[2024-11-09T21:03:57.913+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/fifity_dag.py for tasks to queue
+[2024-11-09T21:03:57.914+0000] {logging_mixin.py:137} INFO - [2024-11-09T21:03:57.914+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T21:03:57.938+0000] {processor.py:753} INFO - DAG(s) dict_keys(['fifity_dag']) retrieved from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T21:03:57.960+0000] {logging_mixin.py:137} INFO - [2024-11-09T21:03:57.960+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-09T21:03:57.977+0000] {logging_mixin.py:137} INFO - [2024-11-09T21:03:57.977+0000] {dag.py:3441} INFO - Setting next_dagrun for fifity_dag to None, run_after=None
+[2024-11-09T21:03:57.986+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/fifity_dag.py took 0.081 seconds
+[2024-11-09T21:04:28.518+0000] {processor.py:153} INFO - Started process (PID=9160) to work on /opt/airflow/dags/fifity_dag.py
+[2024-11-09T21:04:28.520+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/fifity_dag.py for tasks to queue
+[2024-11-09T21:04:28.521+0000] {logging_mixin.py:137} INFO - [2024-11-09T21:04:28.521+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T21:04:28.548+0000] {processor.py:753} INFO - DAG(s) dict_keys(['fifity_dag']) retrieved from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T21:04:28.572+0000] {logging_mixin.py:137} INFO - [2024-11-09T21:04:28.572+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-09T21:04:28.589+0000] {logging_mixin.py:137} INFO - [2024-11-09T21:04:28.589+0000] {dag.py:3441} INFO - Setting next_dagrun for fifity_dag to None, run_after=None
+[2024-11-09T21:04:28.611+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/fifity_dag.py took 0.099 seconds
+[2024-11-09T21:04:59.026+0000] {processor.py:153} INFO - Started process (PID=9209) to work on /opt/airflow/dags/fifity_dag.py
+[2024-11-09T21:04:59.028+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/fifity_dag.py for tasks to queue
+[2024-11-09T21:04:59.028+0000] {logging_mixin.py:137} INFO - [2024-11-09T21:04:59.028+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T21:04:59.039+0000] {processor.py:753} INFO - DAG(s) dict_keys(['fifity_dag']) retrieved from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T21:04:59.054+0000] {logging_mixin.py:137} INFO - [2024-11-09T21:04:59.054+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-09T21:04:59.068+0000] {logging_mixin.py:137} INFO - [2024-11-09T21:04:59.068+0000] {dag.py:3441} INFO - Setting next_dagrun for fifity_dag to None, run_after=None
+[2024-11-09T21:04:59.083+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/fifity_dag.py took 0.058 seconds
+[2024-11-09T21:05:29.745+0000] {processor.py:153} INFO - Started process (PID=9256) to work on /opt/airflow/dags/fifity_dag.py
+[2024-11-09T21:05:29.746+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/fifity_dag.py for tasks to queue
+[2024-11-09T21:05:29.746+0000] {logging_mixin.py:137} INFO - [2024-11-09T21:05:29.746+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T21:05:29.758+0000] {processor.py:753} INFO - DAG(s) dict_keys(['fifity_dag']) retrieved from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T21:05:29.777+0000] {logging_mixin.py:137} INFO - [2024-11-09T21:05:29.777+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-09T21:05:29.804+0000] {logging_mixin.py:137} INFO - [2024-11-09T21:05:29.804+0000] {dag.py:3441} INFO - Setting next_dagrun for fifity_dag to None, run_after=None
+[2024-11-09T21:05:29.815+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/fifity_dag.py took 0.073 seconds
+[2024-11-09T21:06:00.397+0000] {processor.py:153} INFO - Started process (PID=9312) to work on /opt/airflow/dags/fifity_dag.py
+[2024-11-09T21:06:00.399+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/fifity_dag.py for tasks to queue
+[2024-11-09T21:06:00.400+0000] {logging_mixin.py:137} INFO - [2024-11-09T21:06:00.400+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T21:06:00.429+0000] {processor.py:753} INFO - DAG(s) dict_keys(['fifity_dag']) retrieved from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T21:06:00.475+0000] {logging_mixin.py:137} INFO - [2024-11-09T21:06:00.475+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-09T21:06:00.493+0000] {logging_mixin.py:137} INFO - [2024-11-09T21:06:00.493+0000] {dag.py:3441} INFO - Setting next_dagrun for fifity_dag to None, run_after=None
+[2024-11-09T21:06:00.503+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/fifity_dag.py took 0.111 seconds
+[2024-11-09T21:06:31.166+0000] {processor.py:153} INFO - Started process (PID=9361) to work on /opt/airflow/dags/fifity_dag.py
+[2024-11-09T21:06:31.170+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/fifity_dag.py for tasks to queue
+[2024-11-09T21:06:31.173+0000] {logging_mixin.py:137} INFO - [2024-11-09T21:06:31.173+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T21:06:31.204+0000] {processor.py:753} INFO - DAG(s) dict_keys(['fifity_dag']) retrieved from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T21:06:31.233+0000] {logging_mixin.py:137} INFO - [2024-11-09T21:06:31.233+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-09T21:06:31.265+0000] {logging_mixin.py:137} INFO - [2024-11-09T21:06:31.265+0000] {dag.py:3441} INFO - Setting next_dagrun for fifity_dag to None, run_after=None
+[2024-11-09T21:06:31.282+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/fifity_dag.py took 0.130 seconds
+[2024-11-09T21:06:40.404+0000] {processor.py:153} INFO - Started process (PID=9371) to work on /opt/airflow/dags/fifity_dag.py
+[2024-11-09T21:06:40.407+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/fifity_dag.py for tasks to queue
+[2024-11-09T21:06:40.408+0000] {logging_mixin.py:137} INFO - [2024-11-09T21:06:40.408+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T21:06:40.463+0000] {processor.py:753} INFO - DAG(s) dict_keys(['complex']) retrieved from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T21:06:40.581+0000] {logging_mixin.py:137} INFO - [2024-11-09T21:06:40.581+0000] {manager.py:504} INFO - Created Permission View: can delete on DAG:complex
+[2024-11-09T21:06:40.587+0000] {logging_mixin.py:137} INFO - [2024-11-09T21:06:40.587+0000] {manager.py:504} INFO - Created Permission View: can edit on DAG:complex
+[2024-11-09T21:06:40.592+0000] {logging_mixin.py:137} INFO - [2024-11-09T21:06:40.591+0000] {manager.py:504} INFO - Created Permission View: can read on DAG:complex
+[2024-11-09T21:06:40.592+0000] {logging_mixin.py:137} INFO - [2024-11-09T21:06:40.592+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-09T21:06:40.606+0000] {logging_mixin.py:137} INFO - [2024-11-09T21:06:40.606+0000] {dag.py:2711} INFO - Creating ORM DAG for complex
+[2024-11-09T21:06:40.613+0000] {logging_mixin.py:137} INFO - [2024-11-09T21:06:40.613+0000] {dag.py:3441} INFO - Setting next_dagrun for complex to None, run_after=None
+[2024-11-09T21:06:40.621+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/fifity_dag.py took 0.226 seconds
+[2024-11-09T21:06:41.432+0000] {processor.py:153} INFO - Started process (PID=9372) to work on /opt/airflow/dags/fifity_dag.py
+[2024-11-09T21:06:41.433+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/fifity_dag.py for tasks to queue
+[2024-11-09T21:06:41.433+0000] {logging_mixin.py:137} INFO - [2024-11-09T21:06:41.433+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T21:06:41.446+0000] {processor.py:753} INFO - DAG(s) dict_keys(['complex_1']) retrieved from /opt/airflow/dags/fifity_dag.py
+[2024-11-09T21:06:41.506+0000] {logging_mixin.py:137} INFO - [2024-11-09T21:06:41.506+0000] {manager.py:504} INFO - Created Permission View: can delete on DAG:complex_1
+[2024-11-09T21:06:41.510+0000] {logging_mixin.py:137} INFO - [2024-11-09T21:06:41.510+0000] {manager.py:504} INFO - Created Permission View: can edit on DAG:complex_1
+[2024-11-09T21:06:41.513+0000] {logging_mixin.py:137} INFO - [2024-11-09T21:06:41.513+0000] {manager.py:504} INFO - Created Permission View: can read on DAG:complex_1
+[2024-11-09T21:06:41.513+0000] {logging_mixin.py:137} INFO - [2024-11-09T21:06:41.513+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2024-11-09T21:06:41.520+0000] {logging_mixin.py:137} INFO - [2024-11-09T21:06:41.520+0000] {dag.py:2711} INFO - Creating ORM DAG for complex_1
+[2024-11-09T21:06:41.525+0000] {logging_mixin.py:137} INFO - [2024-11-09T21:06:41.525+0000] {dag.py:3441} INFO - Setting next_dagrun for complex_1 to None, run_after=None
+[2024-11-09T21:06:41.533+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/fifity_dag.py took 0.111 seconds
